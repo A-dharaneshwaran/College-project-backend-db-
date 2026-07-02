@@ -1,0 +1,157 @@
+RegisterNumber,Title,Type,Level,Points,Date,VerificationStatus
+KCE26ECE001,Research Publication,academic,Department,25,2025-05-27,Verified
+KCE26ECE001,NCC,cultural,State,100,2025-04-06,Verified
+KCE26ECE001,Hackathon Winner,technical,Department,25,2025-11-07,Verified
+KCE26ECE001,Zonal Tournament,sports,Department,25,2025-10-11,Verified
+KCE26ECE001,Inter-College Sports,sports,National,200,2025-03-04,Verified
+KCE26ECE003,Research Publication,academic,Department,25,2025-06-13,Verified
+KCE26ECE003,Technical Symposium,technical,College,50,2025-12-21,Verified
+KCE26ECE003,Project Competition,technical,College,50,2025-06-13,Verified
+KCE26ECE003,Research Publication,academic,Department,25,2025-08-22,Verified
+KCE26ECE005,Cultural Fest,cultural,State,100,2025-07-22,Verified
+KCE26ECE005,Inter-College Sports,sports,National,200,2025-12-23,Verified
+KCE26ECE005,Cultural Fest,cultural,Department,25,2025-02-21,Verified
+KCE26ECE005,Research Publication,academic,Department,25,2025-06-25,Verified
+KCE26ECE006,Inter-College Sports,sports,Department,25,2025-07-18,Verified
+KCE26ECE006,Athletics Meet,sports,Department,25,2025-04-02,Verified
+KCE26ECE006,Paper Presentation,academic,State,100,2025-08-24,Verified
+KCE26ECE007,Zonal Tournament,sports,College,50,2025-06-27,Verified
+KCE26ECE007,Open Source Contribution,technical,College,50,2025-04-21,Verified
+KCE26ECE007,Certification,academic,National,200,2025-03-16,Verified
+KCE26ECE007,NSS,cultural,College,50,2025-04-13,Verified
+KCE26ECE008,Workshop,technical,State,100,2025-07-15,Verified
+KCE26ECE008,Zonal Tournament,sports,College,50,2025-02-10,Verified
+KCE26ECE008,Hackathon Winner,technical,Department,25,2025-06-17,Verified
+KCE26ECE010,NSS,cultural,Department,25,2025-08-17,Verified
+KCE26CSE001,Zonal Tournament,sports,Department,25,2025-08-19,Verified
+KCE26CSE001,Project Competition,technical,Department,25,2025-05-06,Verified
+KCE26CSE001,Zonal Tournament,sports,Department,25,2025-03-19,Verified
+KCE26CSE002,NSS,cultural,College,50,2025-06-09,Verified
+KCE26CSE002,Project Competition,technical,Department,25,2025-11-27,Verified
+KCE26CSE002,Research Publication,academic,Department,25,2025-11-17,Verified
+KCE26CSE003,Project Competition,technical,College,50,2025-09-16,Verified
+KCE26CSE003,Inter-College Sports,sports,Department,25,2025-06-11,Verified
+KCE26CSE004,Open Source Contribution,technical,Department,25,2025-07-02,Verified
+KCE26CSE004,NCC,cultural,National,200,2025-07-21,Verified
+KCE26CSE005,Certification,academic,Department,25,2025-12-01,Verified
+KCE26CSE005,Workshop,technical,International,500,2025-04-03,Verified
+KCE26CSE005,Zonal Tournament,sports,Department,25,2025-11-05,Verified
+KCE26CSE005,Research Publication,academic,State,100,2025-07-15,Verified
+KCE26CSE005,Inter-College Sports,sports,College,50,2025-02-05,Verified
+KCE26CSE006,Athletics Meet,sports,College,50,2025-10-22,Verified
+KCE26CSE006,Paper Presentation,academic,State,100,2025-01-15,Verified
+KCE26CSE006,Technical Symposium,technical,College,50,2025-05-08,Verified
+KCE26CSE006,NCC,cultural,College,50,2025-09-24,Verified
+KCE26CSE007,Zonal Tournament,sports,College,50,2025-05-11,Verified
+KCE26CSE007,Athletics Meet,sports,Department,25,2025-10-05,Verified
+KCE26CSE007,Research Publication,academic,College,50,2025-09-18,Verified
+KCE26CSE007,Open Source Contribution,technical,College,50,2025-06-03,Verified
+KCE26CSE007,Technical Symposium,technical,Department,25,2025-07-15,Verified
+KCE26CSE008,Research Publication,academic,College,50,2025-05-13,Verified
+KCE26CSE008,Research Publication,academic,Department,25,2025-10-21,Verified
+KCE26CSE008,Inter-College Sports,sports,State,100,2025-01-15,Verified
+KCE26CSE010,Coding Contest,technical,National,200,2025-04-19,Verified
+KCE26CSE010,Paper Presentation,academic,Department,25,2025-10-10,Verified
+KCE26CSE010,Hackathon Winner,technical,Department,25,2025-09-12,Verified
+KCE26CSE010,Athletics Meet,sports,Department,25,2025-07-17,Verified
+KCE26EEE001,NCC,cultural,Department,25,2025-07-18,Verified
+KCE26EEE001,Certification,academic,College,50,2025-09-27,Verified
+KCE26EEE001,Hackathon Winner,technical,Department,25,2025-12-23,Verified
+KCE26EEE001,NCC,cultural,National,200,2025-10-31,Verified
+KCE26EEE002,Project Competition,technical,International,500,2025-05-11,Verified
+KCE26EEE002,Technical Symposium,technical,College,50,2025-05-19,Verified
+KCE26EEE002,NCC,cultural,National,200,2025-05-06,Verified
+KCE26EEE002,Certification,academic,National,200,2025-05-11,Verified
+KCE26EEE002,Project Competition,technical,College,50,2025-01-22,Verified
+KCE26EEE003,Inter-College Sports,sports,Department,25,2025-10-16,Verified
+KCE26EEE003,Volunteer,cultural,Department,25,2025-04-10,Verified
+KCE26EEE004,Project Competition,technical,Department,25,2025-09-20,Verified
+KCE26EEE004,Cultural Fest,cultural,State,100,2025-10-23,Verified
+KCE26EEE007,Athletics Meet,sports,Department,25,2025-12-26,Verified
+KCE26EEE007,Research Publication,academic,National,200,2025-02-27,Verified
+KCE26EEE007,Volunteer,cultural,Department,25,2025-01-22,Verified
+KCE26EEE008,Inter-College Sports,sports,International,500,2025-01-18,Verified
+KCE26EEE009,Project Competition,technical,Department,25,2025-03-05,Verified
+KCE26EEE009,Coding Contest,technical,State,100,2025-06-14,Verified
+KCE26EEE010,Coding Contest,technical,Department,25,2025-07-24,Verified
+KCE26EEE010,Zonal Tournament,sports,State,100,2025-06-24,Verified
+KCE26MECH001,Athletics Meet,sports,National,200,2025-03-26,Verified
+KCE26MECH001,Project Competition,technical,Department,25,2025-05-08,Verified
+KCE26MECH001,NSS,cultural,Department,25,2025-05-17,Verified
+KCE26MECH001,Zonal Tournament,sports,Department,25,2025-10-18,Verified
+KCE26MECH001,Project Competition,technical,College,50,2025-06-07,Verified
+KCE26MECH002,Zonal Tournament,sports,College,50,2025-09-08,Verified
+KCE26MECH002,Research Publication,academic,Department,25,2025-09-04,Verified
+KCE26MECH002,NSS,cultural,Department,25,2025-03-03,Verified
+KCE26MECH003,Innovation Challenge,technical,State,100,2025-01-07,Verified
+KCE26MECH004,Zonal Tournament,sports,State,100,2025-02-25,Verified
+KCE26MECH004,NCC,cultural,College,50,2025-02-09,Verified
+KCE26MECH004,Athletics Meet,sports,Department,25,2025-10-21,Verified
+KCE26MECH004,Athletics Meet,sports,College,50,2025-10-22,Verified
+KCE26MECH004,Technical Symposium,technical,Department,25,2025-04-25,Verified
+KCE26MECH005,Zonal Tournament,sports,Department,25,2025-01-27,Verified
+KCE26MECH005,Research Publication,academic,State,100,2025-08-27,Verified
+KCE26MECH006,Certification,academic,College,50,2025-11-08,Verified
+KCE26MECH008,Certification,academic,State,100,2025-07-31,Verified
+KCE26MECH008,Coding Contest,technical,Department,25,2025-01-24,Verified
+KCE26MECH008,Zonal Tournament,sports,Department,25,2025-07-24,Verified
+KCE26MECH008,Athletics Meet,sports,State,100,2025-07-09,Verified
+KCE26MECH009,Athletics Meet,sports,Department,25,2025-11-21,Verified
+KCE26MECH009,NCC,cultural,College,50,2025-06-25,Verified
+KCE26MECH009,Volunteer,cultural,National,200,2025-04-04,Verified
+KCE26MECH009,Open Source Contribution,technical,Department,25,2025-08-23,Verified
+KCE26MECH009,Inter-College Sports,sports,College,50,2025-08-25,Verified
+KCE26CIVIL001,Project Competition,technical,College,50,2025-02-05,Verified
+KCE26CIVIL001,Inter-College Sports,sports,International,500,2025-12-13,Verified
+KCE26CIVIL002,NSS,cultural,Department,25,2025-07-14,Verified
+KCE26CIVIL002,Athletics Meet,sports,College,50,2025-11-07,Verified
+KCE26CIVIL002,Workshop,technical,State,100,2025-03-09,Verified
+KCE26CIVIL004,Technical Symposium,technical,Department,25,2025-04-07,Verified
+KCE26CIVIL004,Research Publication,academic,National,200,2025-07-22,Verified
+KCE26CIVIL004,Athletics Meet,sports,College,50,2025-08-31,Verified
+KCE26CIVIL004,NCC,cultural,State,100,2025-09-25,Verified
+KCE26CIVIL004,Athletics Meet,sports,Department,25,2025-04-15,Verified
+KCE26CIVIL005,NSS,cultural,National,200,2025-09-02,Verified
+KCE26CIVIL005,NCC,cultural,International,500,2025-10-27,Verified
+KCE26CIVIL005,Research Publication,academic,Department,25,2025-05-24,Verified
+KCE26CIVIL006,Open Source Contribution,technical,Department,25,2025-10-13,Verified
+KCE26CIVIL006,NSS,cultural,Department,25,2025-03-05,Verified
+KCE26CIVIL006,Zonal Tournament,sports,College,50,2025-01-05,Verified
+KCE26CIVIL006,Certification,academic,Department,25,2025-08-09,Verified
+KCE26CIVIL006,Inter-College Sports,sports,State,100,2025-10-09,Verified
+KCE26CIVIL007,Hackathon Winner,technical,National,200,2025-01-22,Verified
+KCE26CIVIL007,Research Publication,academic,National,200,2025-09-12,Verified
+KCE26CIVIL007,Cultural Fest,cultural,College,50,2025-05-04,Verified
+KCE26CIVIL007,Zonal Tournament,sports,Department,25,2025-07-01,Verified
+KCE26CIVIL007,NSS,cultural,Department,25,2025-03-10,Verified
+KCE26CIVIL008,Research Publication,academic,Department,25,2025-06-11,Verified
+KCE26CIVIL008,Volunteer,cultural,National,200,2025-03-03,Verified
+KCE26CIVIL008,Research Publication,academic,State,100,2025-02-25,Verified
+KCE26CIVIL008,Zonal Tournament,sports,Department,25,2025-12-23,Verified
+KCE26CIVIL010,Certification,academic,Department,25,2025-03-14,Verified
+KCE26CIVIL010,NCC,cultural,National,200,2025-06-26,Verified
+KCE26CIVIL010,Volunteer,cultural,Department,25,2025-02-21,Verified
+KCE26AIDS001,NCC,cultural,Department,25,2025-05-07,Verified
+KCE26AIDS001,Inter-College Sports,sports,Department,25,2025-09-23,Verified
+KCE26AIDS001,Technical Symposium,technical,Department,25,2025-11-25,Verified
+KCE26AIDS001,Certification,academic,Department,25,2025-02-14,Verified
+KCE26AIDS001,Project Competition,technical,Department,25,2025-11-21,Verified
+KCE26AIDS002,Athletics Meet,sports,Department,25,2025-12-11,Verified
+KCE26AIDS002,Research Publication,academic,Department,25,2025-02-01,Verified
+KCE26AIDS002,Research Publication,academic,Department,25,2025-05-02,Verified
+KCE26AIDS002,Athletics Meet,sports,State,100,2025-02-25,Verified
+KCE26AIDS003,Workshop,technical,State,100,2025-02-04,Verified
+KCE26AIDS004,Zonal Tournament,sports,College,50,2025-05-05,Verified
+KCE26AIDS004,Research Publication,academic,College,50,2025-11-11,Verified
+KCE26AIDS005,Inter-College Sports,sports,Department,25,2025-03-27,Verified
+KCE26AIDS005,NSS,cultural,Department,25,2025-10-04,Verified
+KCE26AIDS005,Technical Symposium,technical,College,50,2025-06-10,Verified
+KCE26AIDS006,Athletics Meet,sports,National,200,2025-06-09,Verified
+KCE26AIDS006,Inter-College Sports,sports,National,200,2025-03-09,Verified
+KCE26AIDS006,Technical Symposium,technical,National,200,2025-06-24,Verified
+KCE26AIDS006,Athletics Meet,sports,Department,25,2025-08-26,Verified
+KCE26AIDS007,Technical Symposium,technical,State,100,2025-08-27,Verified
+KCE26AIDS007,Project Competition,technical,State,100,2025-02-26,Verified
+KCE26AIDS008,Certification,academic,College,50,2025-01-04,Verified
+KCE26AIDS010,Zonal Tournament,sports,Department,25,2025-01-24,Verified
+KCE26AIDS010,Cultural Fest,cultural,Department,25,2025-07-26,Verified

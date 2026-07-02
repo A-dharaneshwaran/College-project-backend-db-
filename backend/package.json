@@ -1,0 +1,55 @@
+{
+  "name": "kce-backend",
+  "version": "1.0.0",
+  "description": "Kathir College of Engineering - Management System Backend",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "seed": "node src/seeds/seed.js",
+    "seed:reset": "node src/seeds/seed.js --reset",
+    "seed:students": "node src/seeds/seedStudents2026.js",
+    "seed:faculty": "node src/seeds/seedFaculty2026.js",
+    "seed:subjects": "node src/seeds/seedSubjects2026.js",
+    "seed:attendance": "node src/seeds/seedAttendance2026.js",
+    "seed:marks": "node src/seeds/seedMarks2026.js",
+    "seed:achievements": "node src/seeds/seedAchievements2026.js",
+    "seed:queries": "node src/seeds/seedQueries2026.js",
+    "seed:announcements": "node src/seeds/seedAnnouncements2026.js",
+    "seed:notifications": "node src/seeds/seedNotifications2026.js",
+    "seed:messages": "node src/seeds/seedMessages2026.js",
+    "seed:activity": "node src/seeds/seedActivityLogs2026.js",
+    "seed:discipline": "node src/seeds/seedDiscipline2026.js"
+  },
+  "keywords": [
+    "college",
+    "management",
+    "express",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "csv-stringify": "^6.8.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "express-validator": "^7.2.1",
+    "helmet": "^8.0.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.10.1",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.10.1",
+    "puppeteer": "^25.3.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

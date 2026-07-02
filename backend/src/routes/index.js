@@ -1,0 +1,44 @@
+const express = require('express');
+const router = express.Router();
+
+const authRoutes = require('./auth.routes');
+const studentRoutes = require('./student.routes');
+const facultyRoutes = require('./faculty.routes');
+const adminRoutes = require('./admin.routes');
+const departmentRoutes = require('./department.routes');
+const subjectRoutes = require('./subject.routes');
+const attendanceRoutes = require('./attendance.routes');
+const marksRoutes = require('./marks.routes');
+const achievementRoutes = require('./achievement.routes');
+const disciplineRoutes = require('./discipline.routes');
+const queryRoutes = require('./query.routes');
+const announcementRoutes = require('./announcement.routes');
+const illegalActivityRoutes = require('./illegalActivity.routes');
+const notificationRoutes = require('./notification.routes');
+const bulkRoutes = require('./bulk.routes');
+const searchRoutes = require('./search.routes');
+const analyticsRoutes = require('./analytics.routes');
+const messageRoutes = require('./message.routes');
+const contactRoutes = require('./contact.routes');
+
+router.use('/auth', authRoutes);
+router.use('/students', studentRoutes);
+router.use('/faculty', facultyRoutes);
+router.use('/admins', adminRoutes);
+router.use('/departments', departmentRoutes);
+router.use('/subjects', subjectRoutes);
+router.use('/attendance', attendanceRoutes);
+router.use('/marks', marksRoutes);
+router.use('/achievements', achievementRoutes);
+router.use('/discipline', disciplineRoutes);
+router.use('/queries', queryRoutes);
+router.use('/announcements', announcementRoutes);
+router.use('/illegal-activities', illegalActivityRoutes);
+router.use('/notifications', notificationRoutes);
+router.use('/bulk', bulkRoutes);
+router.use('/search', searchRoutes);
+router.use('/analytics', analyticsRoutes);
+router.use('/messages', messageRoutes);
+router.use('/contacts', contactRoutes);
+
+module.exports = router;

@@ -1,0 +1,61 @@
+Title,Category,Priority,Status,Audience,StartDate
+"Campus Recruitment",Placements,Low,Expired,faculty,2026-06-01
+"Placement Drive",Placements,Medium,Published,admin,2026-06-26
+"Library Notice",Library,High,Published,all,2026-06-26
+"Hostel Circular",Hostel,Medium,Scheduled,department,2026-07-06
+"Seminar",Events,High,Published,semester,2026-06-26
+"Guest Lecture",Events,Urgent,Published,department,2026-06-26
+"Hostel Circular",Hostel,Low,Draft,semester,2026-06-26
+"Research Symposium",Research,Medium,Published,students,2026-06-26
+"Holiday Notice",General,Low,Published,all,2026-06-26
+"Research Symposium",Research,Medium,Published,students,2026-06-26
+"Campus Recruitment",Placements,Medium,Expired,department,2026-06-01
+"Holiday Notice",General,Medium,Published,faculty,2026-06-26
+"Innovation Challenge",Events,Low,Scheduled,semester,2026-07-06
+"Project Review Schedule",Academic,Low,Draft,department,2026-06-26
+"Placement Drive",Placements,Medium,Published,students,2026-06-26
+"Lab Maintenance",Maintenance,Low,Draft,all,2026-06-26
+"Scholarship Notice",Accounts,Urgent,Published,department,2026-06-26
+"Hostel Circular",Hostel,Low,Expired,department,2026-06-01
+"Holiday Notice",General,Low,Expired,faculty,2026-06-01
+"Recruitment Notice",Admin,Low,Published,students,2026-06-26
+"Bus Timing Update",Transport,High,Expired,year,2026-06-01
+"Internship Opportunity",Placements,Low,Published,all,2026-06-26
+"Industrial Visit",Events,High,Published,students,2026-06-26
+"Placement Drive",Placements,Low,Published,faculty,2026-06-26
+"Hostel Circular",Hostel,High,Published,year,2026-06-26
+"CIA Timetable",Academic,High,Draft,admin,2026-06-26
+"WiFi Maintenance",IT,High,Published,semester,2026-06-26
+"Sports Meet",Sports,Medium,Scheduled,faculty,2026-07-06
+"Project Review Schedule",Academic,Medium,Published,semester,2026-06-26
+"NSS Camp",Extracurricular,Medium,Published,year,2026-06-26
+"Industrial Visit",Events,High,Expired,students,2026-06-01
+"Library Notice",Library,Low,Draft,all,2026-06-26
+"Innovation Challenge",Events,High,Published,admin,2026-06-26
+"NSS Camp",Extracurricular,Low,Published,year,2026-06-26
+"Bus Timing Update",Transport,Urgent,Published,semester,2026-06-26
+"CIA Timetable",Academic,Low,Published,faculty,2026-06-26
+"Bus Timing Update",Transport,High,Published,faculty,2026-06-26
+"Industrial Visit",Events,High,Published,department,2026-06-26
+"Workshop",Events,Medium,Published,students,2026-06-26
+"Holiday Notice",General,Medium,Expired,semester,2026-06-01
+"Project Review Schedule",Academic,Medium,Published,admin,2026-06-26
+"Fee Payment Reminder",Accounts,Medium,Published,year,2026-06-26
+"Semester Examination Schedule",Academic,Low,Expired,year,2026-06-01
+"Research Symposium",Research,Medium,Published,semester,2026-06-26
+"Fee Payment Reminder",Accounts,Medium,Published,semester,2026-06-26
+"NSS Camp",Extracurricular,Medium,Expired,all,2026-06-01
+"Innovation Challenge",Events,Low,Draft,all,2026-06-26
+"NSS Camp",Extracurricular,Medium,Published,all,2026-06-26
+"Lab Maintenance",Maintenance,Low,Expired,faculty,2026-06-01
+"Library Notice",Library,Medium,Published,faculty,2026-06-26
+"Industrial Visit",Events,Medium,Published,semester,2026-06-26
+"Internal Assessment Schedule",Academic,Medium,Published,all,2026-06-26
+"NCC Parade",Extracurricular,High,Published,semester,2026-06-26
+"Hostel Circular",Hostel,Low,Published,department,2026-06-26
+"Hostel Circular",Hostel,Low,Expired,year,2026-06-01
+"CIA Timetable",Academic,Low,Published,semester,2026-06-26
+"NCC Parade",Extracurricular,Low,Published,all,2026-06-26
+"Sports Meet",Sports,Low,Published,admin,2026-06-26
+"Lab Maintenance",Maintenance,Medium,Expired,admin,2026-06-01
+"NSS Camp",Extracurricular,Medium,Published,faculty,2026-06-26

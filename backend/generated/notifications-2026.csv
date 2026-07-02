@@ -1,0 +1,1118 @@
+UserEmail,Title,Type,Priority,IsRead,CreatedAt
+test.student.ece.1@kathir.edu,"Internal Marks Updated",academic,medium,true,2026-05-30
+test.student.ece.1@kathir.edu,"Welcome Notification",info,low,false,2026-04-11
+test.student.ece.1@kathir.edu,"Placement Drive",info,medium,true,2026-04-03
+test.student.ece.1@kathir.edu,"Profile Updated",info,medium,true,2026-05-31
+test.student.ece.1@kathir.edu,"Query Resolved",query,medium,true,2026-04-26
+test.student.ece.1@kathir.edu,"Exam Schedule Released",academic,medium,true,2026-04-25
+test.student.ece.1@kathir.edu,"Welcome Notification",info,high,false,2026-05-13
+test.student.ece.1@kathir.edu,"Query Submitted",query,medium,true,2026-05-02
+test.student.ece.1@kathir.edu,"Achievement Added",achievement,medium,true,2026-05-19
+test.student.ece.1@kathir.edu,"Fee Reminder",warning,medium,false,2026-06-04
+test.student.ece.1@kathir.edu,"Welcome Notification",info,medium,true,2026-06-24
+test.student.ece.2@kathir.edu,"Welcome Notification",info,high,false,2026-05-25
+test.student.ece.2@kathir.edu,"Achievement Added",achievement,high,true,2026-05-30
+test.student.ece.2@kathir.edu,"Exam Schedule Released",academic,medium,false,2026-04-25
+test.student.ece.2@kathir.edu,"Scholarship Update",info,low,true,2026-04-12
+test.student.ece.2@kathir.edu,"Welcome Notification",info,low,false,2026-05-23
+test.student.ece.2@kathir.edu,"Internal Marks Updated",academic,low,false,2026-04-05
+test.student.ece.2@kathir.edu,"Announcement Published",announcement,medium,true,2026-06-12
+test.student.ece.2@kathir.edu,"Library Reminder",warning,high,false,2026-05-01
+test.student.ece.2@kathir.edu,"Marks Published",academic,high,true,2026-04-29
+test.student.ece.2@kathir.edu,"Scholarship Update",info,urgent,false,2026-06-23
+test.student.ece.2@kathir.edu,"Internal Marks Updated",academic,medium,true,2026-05-06
+test.student.ece.2@kathir.edu,"Holiday Circular",announcement,low,true,2026-04-15
+test.student.ece.3@kathir.edu,"Holiday Circular",announcement,medium,true,2026-05-12
+test.student.ece.3@kathir.edu,"Fee Reminder",warning,low,true,2026-04-03
+test.student.ece.3@kathir.edu,"Scholarship Update",info,low,true,2026-04-30
+test.student.ece.3@kathir.edu,"Achievement Added",achievement,medium,false,2026-06-26
+test.student.ece.3@kathir.edu,"Welcome Notification",info,medium,true,2026-04-30
+test.student.ece.3@kathir.edu,"Scholarship Update",info,urgent,false,2026-05-14
+test.student.ece.3@kathir.edu,"Welcome Notification",info,low,true,2026-05-21
+test.student.ece.3@kathir.edu,"Internal Marks Updated",academic,low,false,2026-06-05
+test.student.ece.3@kathir.edu,"Welcome Notification",info,low,true,2026-04-12
+test.student.ece.3@kathir.edu,"Query Submitted",query,high,true,2026-04-16
+test.student.ece.3@kathir.edu,"Placement Drive",info,urgent,true,2026-05-09
+test.student.ece.3@kathir.edu,"Announcement Published",announcement,low,true,2026-05-18
+test.student.ece.3@kathir.edu,"Announcement Published",announcement,high,true,2026-04-23
+test.student.ece.3@kathir.edu,"Attendance Below Threshold",warning,low,false,2026-05-24
+test.student.ece.3@kathir.edu,"Hackathon Registration",info,medium,true,2026-05-05
+test.student.ece.3@kathir.edu,"Attendance Below Threshold",warning,low,true,2026-04-11
+test.student.ece.3@kathir.edu,"Scholarship Update",info,urgent,true,2026-04-13
+test.student.ece.4@kathir.edu,"System Maintenance",system,low,false,2026-05-06
+test.student.ece.4@kathir.edu,"Fee Reminder",warning,medium,true,2026-04-08
+test.student.ece.4@kathir.edu,"Announcement Published",announcement,medium,true,2026-04-16
+test.student.ece.4@kathir.edu,"Workshop Reminder",info,medium,true,2026-04-16
+test.student.ece.4@kathir.edu,"Holiday Circular",announcement,medium,true,2026-06-19
+test.student.ece.4@kathir.edu,"Holiday Circular",announcement,medium,false,2026-04-08
+test.student.ece.4@kathir.edu,"Fee Reminder",warning,high,false,2026-06-28
+test.student.ece.4@kathir.edu,"Achievement Added",achievement,medium,true,2026-07-01
+test.student.ece.4@kathir.edu,"Attendance Updated",info,high,true,2026-06-18
+test.student.ece.4@kathir.edu,"Library Reminder",warning,low,true,2026-05-09
+test.student.ece.4@kathir.edu,"Hackathon Registration",info,high,true,2026-05-05
+test.student.ece.4@kathir.edu,"Attendance Updated",info,medium,true,2026-04-14
+test.student.ece.5@kathir.edu,"Hackathon Registration",info,low,true,2026-06-21
+test.student.ece.5@kathir.edu,"Internal Marks Updated",academic,medium,true,2026-05-27
+test.student.ece.5@kathir.edu,"Scholarship Update",info,low,false,2026-05-28
+test.student.ece.5@kathir.edu,"Library Reminder",warning,low,false,2026-05-20
+test.student.ece.5@kathir.edu,"Scholarship Update",info,low,true,2026-06-14
+test.student.ece.5@kathir.edu,"Internal Marks Updated",academic,medium,true,2026-05-15
+test.student.ece.5@kathir.edu,"Achievement Added",achievement,low,false,2026-06-05
+test.student.ece.5@kathir.edu,"Query Resolved",query,medium,true,2026-05-11
+test.student.ece.5@kathir.edu,"Hackathon Registration",info,high,false,2026-04-13
+test.student.ece.5@kathir.edu,"Attendance Updated",info,low,true,2026-04-28
+test.student.ece.5@kathir.edu,"Achievement Added",achievement,medium,true,2026-04-27
+test.student.ece.5@kathir.edu,"Exam Schedule Released",academic,urgent,true,2026-05-03
+test.student.ece.5@kathir.edu,"Welcome Notification",info,high,false,2026-06-20
+test.student.ece.6@kathir.edu,"Query Submitted",query,medium,true,2026-05-02
+test.student.ece.6@kathir.edu,"Attendance Updated",info,medium,true,2026-05-09
+test.student.ece.6@kathir.edu,"Achievement Added",achievement,low,false,2026-05-23
+test.student.ece.6@kathir.edu,"Scholarship Update",info,high,false,2026-06-17
+test.student.ece.6@kathir.edu,"Welcome Notification",info,medium,false,2026-06-04
+test.student.ece.6@kathir.edu,"Holiday Circular",announcement,low,false,2026-06-20
+test.student.ece.6@kathir.edu,"Fee Reminder",warning,low,true,2026-05-01
+test.student.ece.6@kathir.edu,"Marks Published",academic,low,true,2026-06-06
+test.student.ece.6@kathir.edu,"Attendance Below Threshold",warning,high,true,2026-06-09
+test.student.ece.6@kathir.edu,"Attendance Updated",info,medium,false,2026-06-30
+test.student.ece.7@kathir.edu,"Holiday Circular",announcement,medium,true,2026-05-29
+test.student.ece.7@kathir.edu,"Marks Published",academic,low,true,2026-04-13
+test.student.ece.7@kathir.edu,"Hackathon Registration",info,urgent,true,2026-05-27
+test.student.ece.7@kathir.edu,"Password Changed",warning,low,true,2026-05-17
+test.student.ece.7@kathir.edu,"Query Resolved",query,high,true,2026-06-30
+test.student.ece.7@kathir.edu,"Marks Published",academic,medium,false,2026-05-29
+test.student.ece.7@kathir.edu,"Exam Schedule Released",academic,low,true,2026-06-18
+test.student.ece.7@kathir.edu,"Achievement Added",achievement,high,true,2026-05-15
+test.student.ece.7@kathir.edu,"Attendance Updated",info,medium,true,2026-06-17
+test.student.ece.7@kathir.edu,"System Maintenance",system,high,true,2026-04-11
+test.student.ece.8@kathir.edu,"Holiday Circular",announcement,urgent,true,2026-05-27
+test.student.ece.8@kathir.edu,"Welcome Notification",info,medium,true,2026-05-25
+test.student.ece.8@kathir.edu,"System Maintenance",system,medium,true,2026-06-25
+test.student.ece.8@kathir.edu,"Hackathon Registration",info,low,true,2026-05-12
+test.student.ece.8@kathir.edu,"Announcement Published",announcement,low,true,2026-06-01
+test.student.ece.8@kathir.edu,"Placement Drive",info,medium,true,2026-05-16
+test.student.ece.8@kathir.edu,"Welcome Notification",info,medium,false,2026-05-26
+test.student.ece.8@kathir.edu,"Attendance Below Threshold",warning,low,false,2026-04-07
+test.student.ece.8@kathir.edu,"Library Reminder",warning,low,true,2026-06-02
+test.student.ece.8@kathir.edu,"Attendance Updated",info,urgent,false,2026-04-04
+test.student.ece.8@kathir.edu,"Placement Drive",info,high,true,2026-07-01
+test.student.ece.8@kathir.edu,"System Maintenance",system,medium,false,2026-04-04
+test.student.ece.8@kathir.edu,"System Maintenance",system,low,true,2026-06-01
+test.student.ece.9@kathir.edu,"Welcome Notification",info,medium,true,2026-06-21
+test.student.ece.9@kathir.edu,"Attendance Below Threshold",warning,high,true,2026-05-03
+test.student.ece.9@kathir.edu,"Profile Updated",info,low,true,2026-06-05
+test.student.ece.9@kathir.edu,"Query Resolved",query,high,false,2026-06-05
+test.student.ece.9@kathir.edu,"Holiday Circular",announcement,medium,false,2026-06-25
+test.student.ece.9@kathir.edu,"Password Changed",warning,medium,false,2026-06-21
+test.student.ece.9@kathir.edu,"Query Resolved",query,high,true,2026-04-14
+test.student.ece.9@kathir.edu,"Scholarship Update",info,medium,false,2026-06-15
+test.student.ece.9@kathir.edu,"Scholarship Update",info,urgent,true,2026-04-07
+test.student.ece.9@kathir.edu,"Library Reminder",warning,medium,true,2026-05-16
+test.student.ece.9@kathir.edu,"Library Reminder",warning,high,true,2026-04-07
+test.student.ece.9@kathir.edu,"Password Changed",warning,high,true,2026-04-26
+test.student.ece.9@kathir.edu,"Fee Reminder",warning,high,false,2026-04-10
+test.student.ece.9@kathir.edu,"Profile Updated",info,low,true,2026-05-18
+test.student.ece.9@kathir.edu,"Holiday Circular",announcement,medium,false,2026-06-25
+test.student.ece.9@kathir.edu,"Library Reminder",warning,low,true,2026-04-18
+test.student.ece.9@kathir.edu,"Achievement Added",achievement,medium,true,2026-06-02
+test.student.ece.9@kathir.edu,"Password Changed",warning,medium,true,2026-05-08
+test.student.ece.10@kathir.edu,"Password Changed",warning,low,false,2026-06-01
+test.student.ece.10@kathir.edu,"Achievement Added",achievement,low,true,2026-06-16
+test.student.ece.10@kathir.edu,"Attendance Updated",info,low,true,2026-05-22
+test.student.ece.10@kathir.edu,"Marks Published",academic,low,false,2026-04-05
+test.student.ece.10@kathir.edu,"Scholarship Update",info,low,false,2026-05-20
+test.student.ece.10@kathir.edu,"Attendance Below Threshold",warning,medium,false,2026-05-30
+test.student.ece.10@kathir.edu,"System Maintenance",system,high,true,2026-04-25
+test.student.ece.10@kathir.edu,"Fee Reminder",warning,medium,true,2026-06-20
+test.student.ece.10@kathir.edu,"Fee Reminder",warning,high,true,2026-05-17
+test.student.ece.10@kathir.edu,"Password Changed",warning,medium,true,2026-05-04
+test.student.ece.10@kathir.edu,"Holiday Circular",announcement,medium,true,2026-05-22
+test.student.ece.10@kathir.edu,"Marks Published",academic,low,true,2026-05-14
+test.student.ece.10@kathir.edu,"Exam Schedule Released",academic,medium,true,2026-04-05
+test.student.cse.1@kathir.edu,"Achievement Added",achievement,medium,false,2026-05-06
+test.student.cse.1@kathir.edu,"Holiday Circular",announcement,low,true,2026-04-24
+test.student.cse.1@kathir.edu,"Attendance Below Threshold",warning,high,true,2026-06-25
+test.student.cse.1@kathir.edu,"Fee Reminder",warning,medium,true,2026-05-14
+test.student.cse.1@kathir.edu,"Placement Drive",info,low,true,2026-05-04
+test.student.cse.1@kathir.edu,"Hackathon Registration",info,high,false,2026-04-14
+test.student.cse.1@kathir.edu,"Query Resolved",query,medium,true,2026-05-14
+test.student.cse.1@kathir.edu,"Profile Updated",info,medium,false,2026-05-27
+test.student.cse.1@kathir.edu,"System Maintenance",system,low,true,2026-04-15
+test.student.cse.1@kathir.edu,"Attendance Below Threshold",warning,high,true,2026-05-17
+test.student.cse.1@kathir.edu,"Fee Reminder",warning,low,true,2026-06-09
+test.student.cse.1@kathir.edu,"System Maintenance",system,medium,true,2026-06-23
+test.student.cse.1@kathir.edu,"Achievement Added",achievement,low,false,2026-05-11
+test.student.cse.2@kathir.edu,"Query Submitted",query,high,true,2026-06-20
+test.student.cse.2@kathir.edu,"Password Changed",warning,low,false,2026-06-29
+test.student.cse.2@kathir.edu,"Query Submitted",query,medium,true,2026-06-30
+test.student.cse.2@kathir.edu,"Hackathon Registration",info,low,true,2026-05-09
+test.student.cse.2@kathir.edu,"Profile Updated",info,low,true,2026-06-06
+test.student.cse.2@kathir.edu,"Exam Schedule Released",academic,medium,true,2026-06-17
+test.student.cse.2@kathir.edu,"Password Changed",warning,high,false,2026-04-23
+test.student.cse.2@kathir.edu,"Library Reminder",warning,low,true,2026-04-25
+test.student.cse.2@kathir.edu,"Query Submitted",query,medium,true,2026-05-23
+test.student.cse.2@kathir.edu,"Query Resolved",query,high,true,2026-05-07
+test.student.cse.2@kathir.edu,"Placement Drive",info,low,false,2026-06-10
+test.student.cse.2@kathir.edu,"Scholarship Update",info,low,false,2026-06-30
+test.student.cse.2@kathir.edu,"Holiday Circular",announcement,low,true,2026-05-18
+test.student.cse.2@kathir.edu,"System Maintenance",system,medium,true,2026-05-09
+test.student.cse.2@kathir.edu,"Marks Published",academic,medium,false,2026-05-09
+test.student.cse.2@kathir.edu,"Scholarship Update",info,medium,false,2026-04-20
+test.student.cse.2@kathir.edu,"Announcement Published",announcement,low,false,2026-04-04
+test.student.cse.3@kathir.edu,"Hackathon Registration",info,low,false,2026-06-16
+test.student.cse.3@kathir.edu,"Hackathon Registration",info,low,true,2026-05-09
+test.student.cse.3@kathir.edu,"Attendance Updated",info,urgent,true,2026-05-13
+test.student.cse.3@kathir.edu,"System Maintenance",system,high,false,2026-05-15
+test.student.cse.3@kathir.edu,"Holiday Circular",announcement,medium,false,2026-06-26
+test.student.cse.3@kathir.edu,"System Maintenance",system,medium,true,2026-04-03
+test.student.cse.3@kathir.edu,"Attendance Updated",info,medium,false,2026-04-25
+test.student.cse.3@kathir.edu,"Query Resolved",query,low,true,2026-05-28
+test.student.cse.4@kathir.edu,"Profile Updated",info,urgent,true,2026-04-20
+test.student.cse.4@kathir.edu,"Attendance Below Threshold",warning,medium,false,2026-05-14
+test.student.cse.4@kathir.edu,"Marks Published",academic,high,true,2026-05-12
+test.student.cse.4@kathir.edu,"Exam Schedule Released",academic,low,true,2026-04-05
+test.student.cse.4@kathir.edu,"Internal Marks Updated",academic,low,true,2026-05-01
+test.student.cse.4@kathir.edu,"Attendance Updated",info,high,true,2026-06-10
+test.student.cse.4@kathir.edu,"Attendance Below Threshold",warning,medium,true,2026-06-30
+test.student.cse.4@kathir.edu,"Workshop Reminder",info,low,true,2026-06-19
+test.student.cse.4@kathir.edu,"Query Submitted",query,high,true,2026-06-02
+test.student.cse.4@kathir.edu,"Exam Schedule Released",academic,medium,true,2026-04-06
+test.student.cse.4@kathir.edu,"Library Reminder",warning,low,true,2026-04-06
+test.student.cse.5@kathir.edu,"Query Submitted",query,low,true,2026-06-30
+test.student.cse.5@kathir.edu,"Fee Reminder",warning,medium,true,2026-05-10
+test.student.cse.5@kathir.edu,"Holiday Circular",announcement,medium,false,2026-04-20
+test.student.cse.5@kathir.edu,"Password Changed",warning,low,true,2026-04-12
+test.student.cse.5@kathir.edu,"Fee Reminder",warning,medium,true,2026-06-27
+test.student.cse.5@kathir.edu,"Scholarship Update",info,low,false,2026-05-20
+test.student.cse.5@kathir.edu,"Workshop Reminder",info,medium,false,2026-04-16
+test.student.cse.5@kathir.edu,"Hackathon Registration",info,low,false,2026-06-21
+test.student.cse.6@kathir.edu,"Announcement Published",announcement,high,true,2026-06-07
+test.student.cse.6@kathir.edu,"Query Resolved",query,urgent,true,2026-06-28
+test.student.cse.6@kathir.edu,"Scholarship Update",info,medium,false,2026-04-30
+test.student.cse.6@kathir.edu,"Profile Updated",info,medium,false,2026-05-19
+test.student.cse.6@kathir.edu,"Profile Updated",info,medium,true,2026-04-10
+test.student.cse.6@kathir.edu,"System Maintenance",system,low,true,2026-06-13
+test.student.cse.6@kathir.edu,"Placement Drive",info,low,false,2026-05-10
+test.student.cse.6@kathir.edu,"Password Changed",warning,low,true,2026-04-04
+test.student.cse.6@kathir.edu,"Announcement Published",announcement,medium,true,2026-05-01
+test.student.cse.6@kathir.edu,"Scholarship Update",info,high,true,2026-06-05
+test.student.cse.6@kathir.edu,"Placement Drive",info,medium,false,2026-05-17
+test.student.cse.6@kathir.edu,"Scholarship Update",info,low,true,2026-06-24
+test.student.cse.6@kathir.edu,"Achievement Added",achievement,low,false,2026-05-08
+test.student.cse.6@kathir.edu,"Scholarship Update",info,low,false,2026-05-30
+test.student.cse.6@kathir.edu,"Password Changed",warning,urgent,true,2026-04-14
+test.student.cse.6@kathir.edu,"Fee Reminder",warning,low,true,2026-05-03
+test.student.cse.6@kathir.edu,"Scholarship Update",info,low,true,2026-06-03
+test.student.cse.6@kathir.edu,"Attendance Below Threshold",warning,high,false,2026-06-29
+test.student.cse.7@kathir.edu,"Welcome Notification",info,medium,true,2026-05-23
+test.student.cse.7@kathir.edu,"Achievement Added",achievement,low,false,2026-04-11
+test.student.cse.7@kathir.edu,"Attendance Below Threshold",warning,low,true,2026-06-22
+test.student.cse.7@kathir.edu,"Query Submitted",query,urgent,true,2026-06-17
+test.student.cse.7@kathir.edu,"Holiday Circular",announcement,medium,true,2026-04-15
+test.student.cse.7@kathir.edu,"Library Reminder",warning,medium,true,2026-05-06
+test.student.cse.7@kathir.edu,"Profile Updated",info,high,false,2026-04-14
+test.student.cse.7@kathir.edu,"Query Submitted",query,low,false,2026-05-05
+test.student.cse.7@kathir.edu,"Query Resolved",query,medium,false,2026-05-08
+test.student.cse.7@kathir.edu,"Profile Updated",info,low,true,2026-05-25
+test.student.cse.7@kathir.edu,"Achievement Added",achievement,high,false,2026-06-06
+test.student.cse.7@kathir.edu,"Announcement Published",announcement,low,true,2026-05-03
+test.student.cse.7@kathir.edu,"Marks Published",academic,low,true,2026-06-14
+test.student.cse.7@kathir.edu,"Achievement Added",achievement,high,true,2026-05-02
+test.student.cse.7@kathir.edu,"Workshop Reminder",info,high,true,2026-06-20
+test.student.cse.7@kathir.edu,"Profile Updated",info,medium,true,2026-06-02
+test.student.cse.7@kathir.edu,"Library Reminder",warning,high,false,2026-06-22
+test.student.cse.8@kathir.edu,"Welcome Notification",info,low,false,2026-04-15
+test.student.cse.8@kathir.edu,"Fee Reminder",warning,high,false,2026-05-09
+test.student.cse.8@kathir.edu,"Holiday Circular",announcement,high,false,2026-04-30
+test.student.cse.8@kathir.edu,"Workshop Reminder",info,medium,true,2026-07-01
+test.student.cse.8@kathir.edu,"System Maintenance",system,medium,true,2026-05-14
+test.student.cse.8@kathir.edu,"Exam Schedule Released",academic,high,false,2026-06-16
+test.student.cse.8@kathir.edu,"Internal Marks Updated",academic,low,true,2026-04-04
+test.student.cse.8@kathir.edu,"Placement Drive",info,high,false,2026-06-29
+test.student.cse.8@kathir.edu,"Query Submitted",query,medium,true,2026-04-07
+test.student.cse.8@kathir.edu,"Scholarship Update",info,medium,false,2026-04-28
+test.student.cse.8@kathir.edu,"Hackathon Registration",info,high,true,2026-06-18
+test.student.cse.8@kathir.edu,"Library Reminder",warning,medium,true,2026-06-15
+test.student.cse.8@kathir.edu,"Welcome Notification",info,medium,true,2026-04-28
+test.student.cse.8@kathir.edu,"Profile Updated",info,high,false,2026-06-05
+test.student.cse.8@kathir.edu,"Holiday Circular",announcement,medium,true,2026-04-20
+test.student.cse.8@kathir.edu,"Scholarship Update",info,medium,false,2026-04-15
+test.student.cse.8@kathir.edu,"Achievement Added",achievement,high,true,2026-06-19
+test.student.cse.9@kathir.edu,"Profile Updated",info,low,false,2026-04-03
+test.student.cse.9@kathir.edu,"Holiday Circular",announcement,medium,true,2026-05-27
+test.student.cse.9@kathir.edu,"Scholarship Update",info,low,true,2026-05-10
+test.student.cse.9@kathir.edu,"Attendance Updated",info,medium,true,2026-05-06
+test.student.cse.9@kathir.edu,"Query Submitted",query,low,true,2026-04-26
+test.student.cse.9@kathir.edu,"Query Submitted",query,low,true,2026-04-26
+test.student.cse.9@kathir.edu,"Attendance Below Threshold",warning,low,true,2026-07-01
+test.student.cse.9@kathir.edu,"Marks Published",academic,low,false,2026-06-03
+test.student.cse.9@kathir.edu,"Hackathon Registration",info,low,true,2026-05-13
+test.student.cse.9@kathir.edu,"Placement Drive",info,medium,true,2026-05-11
+test.student.cse.9@kathir.edu,"Profile Updated",info,high,false,2026-06-19
+test.student.cse.10@kathir.edu,"Attendance Below Threshold",warning,low,false,2026-05-04
+test.student.cse.10@kathir.edu,"Holiday Circular",announcement,medium,true,2026-06-09
+test.student.cse.10@kathir.edu,"Profile Updated",info,medium,true,2026-04-05
+test.student.cse.10@kathir.edu,"Hackathon Registration",info,medium,false,2026-06-04
+test.student.cse.10@kathir.edu,"Password Changed",warning,medium,false,2026-05-16
+test.student.cse.10@kathir.edu,"Password Changed",warning,low,false,2026-06-05
+test.student.cse.10@kathir.edu,"Scholarship Update",info,low,true,2026-06-22
+test.student.cse.10@kathir.edu,"Profile Updated",info,medium,false,2026-04-28
+test.student.cse.10@kathir.edu,"System Maintenance",system,high,false,2026-04-16
+test.student.eee.1@kathir.edu,"Library Reminder",warning,medium,false,2026-04-24
+test.student.eee.1@kathir.edu,"Password Changed",warning,low,true,2026-04-29
+test.student.eee.1@kathir.edu,"Marks Published",academic,high,true,2026-06-18
+test.student.eee.1@kathir.edu,"Placement Drive",info,low,false,2026-05-09
+test.student.eee.1@kathir.edu,"System Maintenance",system,low,false,2026-04-27
+test.student.eee.2@kathir.edu,"Profile Updated",info,medium,true,2026-04-13
+test.student.eee.2@kathir.edu,"Library Reminder",warning,medium,true,2026-05-25
+test.student.eee.2@kathir.edu,"Fee Reminder",warning,low,true,2026-05-03
+test.student.eee.2@kathir.edu,"Exam Schedule Released",academic,medium,true,2026-05-03
+test.student.eee.2@kathir.edu,"System Maintenance",system,medium,true,2026-04-27
+test.student.eee.2@kathir.edu,"Attendance Below Threshold",warning,low,true,2026-06-29
+test.student.eee.2@kathir.edu,"Attendance Below Threshold",warning,urgent,true,2026-06-17
+test.student.eee.2@kathir.edu,"Hackathon Registration",info,low,true,2026-06-15
+test.student.eee.2@kathir.edu,"Library Reminder",warning,medium,true,2026-06-27
+test.student.eee.2@kathir.edu,"Fee Reminder",warning,medium,true,2026-05-08
+test.student.eee.2@kathir.edu,"Query Submitted",query,high,true,2026-06-18
+test.student.eee.2@kathir.edu,"Hackathon Registration",info,medium,false,2026-04-18
+test.student.eee.3@kathir.edu,"Scholarship Update",info,low,true,2026-04-28
+test.student.eee.3@kathir.edu,"Exam Schedule Released",academic,medium,false,2026-04-10
+test.student.eee.3@kathir.edu,"Achievement Added",achievement,medium,true,2026-04-05
+test.student.eee.3@kathir.edu,"Profile Updated",info,low,true,2026-05-24
+test.student.eee.3@kathir.edu,"Password Changed",warning,low,false,2026-04-12
+test.student.eee.3@kathir.edu,"Profile Updated",info,low,false,2026-04-17
+test.student.eee.3@kathir.edu,"Marks Published",academic,low,false,2026-05-29
+test.student.eee.3@kathir.edu,"Workshop Reminder",info,medium,true,2026-05-08
+test.student.eee.3@kathir.edu,"Achievement Added",achievement,medium,true,2026-06-13
+test.student.eee.3@kathir.edu,"Attendance Below Threshold",warning,high,true,2026-04-22
+test.student.eee.3@kathir.edu,"Scholarship Update",info,low,true,2026-06-21
+test.student.eee.3@kathir.edu,"Attendance Below Threshold",warning,high,false,2026-05-19
+test.student.eee.3@kathir.edu,"Workshop Reminder",info,medium,false,2026-06-16
+test.student.eee.4@kathir.edu,"Attendance Updated",info,high,true,2026-06-26
+test.student.eee.4@kathir.edu,"Query Resolved",query,low,true,2026-06-30
+test.student.eee.4@kathir.edu,"Announcement Published",announcement,medium,true,2026-04-30
+test.student.eee.4@kathir.edu,"Achievement Added",achievement,urgent,true,2026-04-11
+test.student.eee.4@kathir.edu,"Achievement Added",achievement,low,true,2026-06-10
+test.student.eee.4@kathir.edu,"Fee Reminder",warning,high,true,2026-05-02
+test.student.eee.4@kathir.edu,"Scholarship Update",info,medium,true,2026-04-28
+test.student.eee.4@kathir.edu,"Welcome Notification",info,low,true,2026-04-13
+test.student.eee.4@kathir.edu,"Fee Reminder",warning,medium,true,2026-04-09
+test.student.eee.4@kathir.edu,"Fee Reminder",warning,high,true,2026-04-30
+test.student.eee.4@kathir.edu,"System Maintenance",system,urgent,true,2026-05-14
+test.student.eee.4@kathir.edu,"Fee Reminder",warning,medium,false,2026-06-17
+test.student.eee.4@kathir.edu,"Achievement Added",achievement,medium,false,2026-05-26
+test.student.eee.5@kathir.edu,"Attendance Below Threshold",warning,medium,true,2026-05-30
+test.student.eee.5@kathir.edu,"Placement Drive",info,low,true,2026-06-23
+test.student.eee.5@kathir.edu,"Internal Marks Updated",academic,medium,true,2026-05-15
+test.student.eee.5@kathir.edu,"Announcement Published",announcement,medium,true,2026-06-28
+test.student.eee.5@kathir.edu,"Password Changed",warning,low,false,2026-05-10
+test.student.eee.6@kathir.edu,"Scholarship Update",info,low,false,2026-05-23
+test.student.eee.6@kathir.edu,"Welcome Notification",info,low,true,2026-06-07
+test.student.eee.6@kathir.edu,"Profile Updated",info,high,true,2026-04-17
+test.student.eee.6@kathir.edu,"Exam Schedule Released",academic,low,true,2026-06-06
+test.student.eee.6@kathir.edu,"Achievement Added",achievement,high,false,2026-06-20
+test.student.eee.6@kathir.edu,"Fee Reminder",warning,low,true,2026-05-31
+test.student.eee.6@kathir.edu,"Scholarship Update",info,high,true,2026-06-15
+test.student.eee.6@kathir.edu,"Workshop Reminder",info,medium,false,2026-04-24
+test.student.eee.6@kathir.edu,"Scholarship Update",info,medium,false,2026-04-22
+test.student.eee.6@kathir.edu,"Scholarship Update",info,low,true,2026-05-11
+test.student.eee.6@kathir.edu,"Exam Schedule Released",academic,low,true,2026-05-22
+test.student.eee.6@kathir.edu,"System Maintenance",system,medium,true,2026-06-23
+test.student.eee.6@kathir.edu,"Holiday Circular",announcement,high,true,2026-04-04
+test.student.eee.6@kathir.edu,"Library Reminder",warning,medium,false,2026-06-01
+test.student.eee.6@kathir.edu,"Scholarship Update",info,medium,true,2026-04-17
+test.student.eee.6@kathir.edu,"System Maintenance",system,low,true,2026-07-01
+test.student.eee.6@kathir.edu,"Achievement Added",achievement,low,false,2026-04-11
+test.student.eee.6@kathir.edu,"Fee Reminder",warning,urgent,false,2026-04-20
+test.student.eee.7@kathir.edu,"Marks Published",academic,low,true,2026-04-22
+test.student.eee.7@kathir.edu,"Library Reminder",warning,medium,true,2026-06-22
+test.student.eee.7@kathir.edu,"System Maintenance",system,urgent,true,2026-04-19
+test.student.eee.7@kathir.edu,"Password Changed",warning,low,false,2026-05-01
+test.student.eee.7@kathir.edu,"Marks Published",academic,medium,true,2026-06-09
+test.student.eee.7@kathir.edu,"Welcome Notification",info,low,true,2026-04-05
+test.student.eee.8@kathir.edu,"Workshop Reminder",info,medium,true,2026-04-14
+test.student.eee.8@kathir.edu,"Password Changed",warning,high,true,2026-04-06
+test.student.eee.8@kathir.edu,"Marks Published",academic,medium,false,2026-06-21
+test.student.eee.8@kathir.edu,"Fee Reminder",warning,low,false,2026-04-27
+test.student.eee.8@kathir.edu,"Marks Published",academic,low,true,2026-04-14
+test.student.eee.8@kathir.edu,"Query Resolved",query,medium,true,2026-06-13
+test.student.eee.8@kathir.edu,"Attendance Below Threshold",warning,low,false,2026-06-25
+test.student.eee.8@kathir.edu,"Scholarship Update",info,high,true,2026-05-06
+test.student.eee.8@kathir.edu,"Workshop Reminder",info,low,false,2026-04-10
+test.student.eee.8@kathir.edu,"Profile Updated",info,medium,true,2026-04-23
+test.student.eee.8@kathir.edu,"Query Resolved",query,high,true,2026-04-19
+test.student.eee.8@kathir.edu,"Hackathon Registration",info,low,false,2026-04-22
+test.student.eee.8@kathir.edu,"Hackathon Registration",info,urgent,true,2026-06-15
+test.student.eee.8@kathir.edu,"Password Changed",warning,medium,true,2026-05-10
+test.student.eee.8@kathir.edu,"Achievement Added",achievement,low,true,2026-05-30
+test.student.eee.8@kathir.edu,"Achievement Added",achievement,high,true,2026-06-25
+test.student.eee.8@kathir.edu,"Attendance Updated",info,medium,true,2026-04-11
+test.student.eee.8@kathir.edu,"Password Changed",warning,urgent,false,2026-05-19
+test.student.eee.9@kathir.edu,"Scholarship Update",info,medium,true,2026-04-27
+test.student.eee.9@kathir.edu,"Holiday Circular",announcement,medium,false,2026-06-18
+test.student.eee.9@kathir.edu,"Profile Updated",info,urgent,true,2026-05-04
+test.student.eee.9@kathir.edu,"Scholarship Update",info,medium,true,2026-06-21
+test.student.eee.9@kathir.edu,"Announcement Published",announcement,medium,true,2026-06-21
+test.student.eee.9@kathir.edu,"Attendance Updated",info,low,false,2026-04-14
+test.student.eee.9@kathir.edu,"Attendance Updated",info,low,false,2026-04-17
+test.student.eee.9@kathir.edu,"Welcome Notification",info,medium,true,2026-04-03
+test.student.eee.10@kathir.edu,"Internal Marks Updated",academic,low,true,2026-05-14
+test.student.eee.10@kathir.edu,"Welcome Notification",info,low,true,2026-04-07
+test.student.eee.10@kathir.edu,"Profile Updated",info,medium,false,2026-06-03
+test.student.eee.10@kathir.edu,"Exam Schedule Released",academic,high,true,2026-05-22
+test.student.eee.10@kathir.edu,"System Maintenance",system,high,true,2026-06-15
+test.student.eee.10@kathir.edu,"Scholarship Update",info,high,false,2026-06-29
+test.student.eee.10@kathir.edu,"Password Changed",warning,medium,true,2026-05-26
+test.student.eee.10@kathir.edu,"Profile Updated",info,high,false,2026-05-13
+test.student.eee.10@kathir.edu,"Announcement Published",announcement,low,true,2026-05-12
+test.student.eee.10@kathir.edu,"Workshop Reminder",info,medium,false,2026-05-06
+test.student.eee.10@kathir.edu,"Hackathon Registration",info,low,false,2026-06-20
+test.student.mech.1@kathir.edu,"Internal Marks Updated",academic,medium,true,2026-05-16
+test.student.mech.1@kathir.edu,"Password Changed",warning,low,true,2026-05-09
+test.student.mech.1@kathir.edu,"Query Resolved",query,low,true,2026-05-31
+test.student.mech.1@kathir.edu,"Attendance Below Threshold",warning,high,false,2026-04-07
+test.student.mech.1@kathir.edu,"Hackathon Registration",info,medium,true,2026-06-01
+test.student.mech.1@kathir.edu,"Welcome Notification",info,medium,true,2026-05-08
+test.student.mech.1@kathir.edu,"Achievement Added",achievement,high,true,2026-06-14
+test.student.mech.1@kathir.edu,"Query Submitted",query,high,true,2026-04-30
+test.student.mech.1@kathir.edu,"Password Changed",warning,medium,false,2026-04-27
+test.student.mech.1@kathir.edu,"Profile Updated",info,medium,true,2026-06-08
+test.student.mech.1@kathir.edu,"Placement Drive",info,medium,true,2026-06-17
+test.student.mech.1@kathir.edu,"Profile Updated",info,low,true,2026-05-04
+test.student.mech.1@kathir.edu,"Placement Drive",info,high,true,2026-05-30
+test.student.mech.2@kathir.edu,"Placement Drive",info,high,true,2026-05-05
+test.student.mech.2@kathir.edu,"Internal Marks Updated",academic,low,false,2026-06-20
+test.student.mech.2@kathir.edu,"Workshop Reminder",info,urgent,true,2026-04-13
+test.student.mech.2@kathir.edu,"Welcome Notification",info,medium,true,2026-06-27
+test.student.mech.2@kathir.edu,"Hackathon Registration",info,medium,true,2026-05-03
+test.student.mech.3@kathir.edu,"Achievement Added",achievement,medium,true,2026-05-23
+test.student.mech.3@kathir.edu,"Library Reminder",warning,high,true,2026-06-11
+test.student.mech.3@kathir.edu,"System Maintenance",system,high,true,2026-04-18
+test.student.mech.3@kathir.edu,"Exam Schedule Released",academic,medium,true,2026-05-09
+test.student.mech.3@kathir.edu,"Holiday Circular",announcement,medium,true,2026-04-17
+test.student.mech.3@kathir.edu,"Profile Updated",info,low,true,2026-05-30
+test.student.mech.3@kathir.edu,"Query Submitted",query,medium,true,2026-06-03
+test.student.mech.3@kathir.edu,"Exam Schedule Released",academic,low,false,2026-06-04
+test.student.mech.3@kathir.edu,"Hackathon Registration",info,high,false,2026-06-25
+test.student.mech.3@kathir.edu,"Welcome Notification",info,low,true,2026-06-25
+test.student.mech.3@kathir.edu,"Placement Drive",info,low,false,2026-06-10
+test.student.mech.3@kathir.edu,"Placement Drive",info,medium,true,2026-06-03
+test.student.mech.4@kathir.edu,"Profile Updated",info,medium,false,2026-04-10
+test.student.mech.4@kathir.edu,"Query Submitted",query,medium,true,2026-05-10
+test.student.mech.4@kathir.edu,"Scholarship Update",info,medium,false,2026-05-30
+test.student.mech.4@kathir.edu,"Workshop Reminder",info,high,true,2026-05-06
+test.student.mech.4@kathir.edu,"Workshop Reminder",info,medium,true,2026-05-15
+test.student.mech.4@kathir.edu,"Achievement Added",achievement,low,true,2026-06-12
+test.student.mech.4@kathir.edu,"Workshop Reminder",info,medium,true,2026-06-21
+test.student.mech.4@kathir.edu,"Library Reminder",warning,high,false,2026-06-03
+test.student.mech.4@kathir.edu,"System Maintenance",system,low,false,2026-06-27
+test.student.mech.4@kathir.edu,"Scholarship Update",info,medium,true,2026-05-06
+test.student.mech.4@kathir.edu,"Password Changed",warning,low,false,2026-04-27
+test.student.mech.4@kathir.edu,"Workshop Reminder",info,medium,true,2026-06-30
+test.student.mech.5@kathir.edu,"Library Reminder",warning,low,true,2026-05-03
+test.student.mech.5@kathir.edu,"Placement Drive",info,low,false,2026-06-29
+test.student.mech.5@kathir.edu,"Library Reminder",warning,low,false,2026-05-01
+test.student.mech.5@kathir.edu,"Hackathon Registration",info,high,true,2026-04-06
+test.student.mech.5@kathir.edu,"Attendance Below Threshold",warning,medium,true,2026-06-26
+test.student.mech.5@kathir.edu,"Query Resolved",query,low,true,2026-04-27
+test.student.mech.5@kathir.edu,"Achievement Added",achievement,low,true,2026-05-22
+test.student.mech.5@kathir.edu,"Internal Marks Updated",academic,medium,true,2026-05-13
+test.student.mech.5@kathir.edu,"Hackathon Registration",info,high,false,2026-05-06
+test.student.mech.5@kathir.edu,"Fee Reminder",warning,low,true,2026-06-10
+test.student.mech.5@kathir.edu,"Announcement Published",announcement,medium,true,2026-04-25
+test.student.mech.5@kathir.edu,"Query Submitted",query,low,true,2026-06-17
+test.student.mech.5@kathir.edu,"Profile Updated",info,low,true,2026-05-16
+test.student.mech.5@kathir.edu,"Internal Marks Updated",academic,high,true,2026-04-27
+test.student.mech.5@kathir.edu,"Fee Reminder",warning,high,true,2026-06-23
+test.student.mech.6@kathir.edu,"Scholarship Update",info,medium,true,2026-04-03
+test.student.mech.6@kathir.edu,"Fee Reminder",warning,high,true,2026-05-26
+test.student.mech.6@kathir.edu,"Marks Published",academic,low,false,2026-04-08
+test.student.mech.6@kathir.edu,"Internal Marks Updated",academic,high,true,2026-06-27
+test.student.mech.6@kathir.edu,"Fee Reminder",warning,medium,true,2026-06-15
+test.student.mech.6@kathir.edu,"Query Submitted",query,low,false,2026-05-11
+test.student.mech.6@kathir.edu,"Profile Updated",info,urgent,true,2026-06-14
+test.student.mech.6@kathir.edu,"Attendance Below Threshold",warning,urgent,true,2026-04-30
+test.student.mech.6@kathir.edu,"Placement Drive",info,medium,false,2026-04-06
+test.student.mech.6@kathir.edu,"Exam Schedule Released",academic,high,true,2026-05-31
+test.student.mech.6@kathir.edu,"Query Resolved",query,high,true,2026-05-20
+test.student.mech.6@kathir.edu,"Attendance Below Threshold",warning,low,true,2026-06-29
+test.student.mech.6@kathir.edu,"Scholarship Update",info,low,true,2026-04-21
+test.student.mech.6@kathir.edu,"Attendance Below Threshold",warning,medium,false,2026-06-11
+test.student.mech.6@kathir.edu,"Holiday Circular",announcement,medium,true,2026-06-30
+test.student.mech.6@kathir.edu,"Library Reminder",warning,low,false,2026-05-03
+test.student.mech.6@kathir.edu,"Scholarship Update",info,medium,false,2026-04-19
+test.student.mech.6@kathir.edu,"Password Changed",warning,low,false,2026-05-08
+test.student.mech.6@kathir.edu,"Welcome Notification",info,medium,true,2026-04-25
+test.student.mech.7@kathir.edu,"Exam Schedule Released",academic,low,true,2026-06-26
+test.student.mech.7@kathir.edu,"Welcome Notification",info,low,true,2026-06-22
+test.student.mech.7@kathir.edu,"Attendance Updated",info,low,true,2026-04-23
+test.student.mech.7@kathir.edu,"Holiday Circular",announcement,medium,false,2026-05-19
+test.student.mech.7@kathir.edu,"Workshop Reminder",info,medium,true,2026-06-09
+test.student.mech.7@kathir.edu,"Library Reminder",warning,low,true,2026-04-08
+test.student.mech.7@kathir.edu,"Attendance Updated",info,low,false,2026-06-10
+test.student.mech.7@kathir.edu,"Placement Drive",info,urgent,true,2026-04-29
+test.student.mech.7@kathir.edu,"Welcome Notification",info,low,false,2026-04-04
+test.student.mech.7@kathir.edu,"Exam Schedule Released",academic,high,true,2026-06-14
+test.student.mech.7@kathir.edu,"Attendance Updated",info,medium,false,2026-04-22
+test.student.mech.7@kathir.edu,"System Maintenance",system,high,true,2026-05-22
+test.student.mech.8@kathir.edu,"Achievement Added",achievement,medium,false,2026-04-06
+test.student.mech.8@kathir.edu,"Holiday Circular",announcement,low,true,2026-06-27
+test.student.mech.8@kathir.edu,"Library Reminder",warning,low,true,2026-07-01
+test.student.mech.8@kathir.edu,"Scholarship Update",info,low,false,2026-05-17
+test.student.mech.8@kathir.edu,"Password Changed",warning,low,false,2026-05-01
+test.student.mech.8@kathir.edu,"Marks Published",academic,urgent,false,2026-05-23
+test.student.mech.8@kathir.edu,"Query Resolved",query,low,true,2026-05-30
+test.student.mech.8@kathir.edu,"Achievement Added",achievement,low,true,2026-05-21
+test.student.mech.8@kathir.edu,"Internal Marks Updated",academic,medium,true,2026-06-16
+test.student.mech.8@kathir.edu,"Placement Drive",info,medium,true,2026-06-29
+test.student.mech.8@kathir.edu,"Attendance Updated",info,medium,true,2026-04-23
+test.student.mech.8@kathir.edu,"Marks Published",academic,medium,true,2026-05-09
+test.student.mech.8@kathir.edu,"Scholarship Update",info,high,true,2026-05-12
+test.student.mech.8@kathir.edu,"Hackathon Registration",info,high,false,2026-04-28
+test.student.mech.8@kathir.edu,"Placement Drive",info,high,false,2026-05-31
+test.student.mech.8@kathir.edu,"Exam Schedule Released",academic,low,false,2026-06-25
+test.student.mech.9@kathir.edu,"Query Resolved",query,low,false,2026-05-21
+test.student.mech.9@kathir.edu,"Holiday Circular",announcement,low,true,2026-04-05
+test.student.mech.9@kathir.edu,"Announcement Published",announcement,medium,true,2026-06-28
+test.student.mech.9@kathir.edu,"System Maintenance",system,medium,false,2026-06-14
+test.student.mech.9@kathir.edu,"Workshop Reminder",info,low,true,2026-04-17
+test.student.mech.9@kathir.edu,"Welcome Notification",info,high,false,2026-06-08
+test.student.mech.9@kathir.edu,"Holiday Circular",announcement,low,true,2026-06-21
+test.student.mech.10@kathir.edu,"Scholarship Update",info,high,true,2026-04-25
+test.student.mech.10@kathir.edu,"Marks Published",academic,medium,true,2026-04-19
+test.student.mech.10@kathir.edu,"Welcome Notification",info,low,false,2026-04-03
+test.student.mech.10@kathir.edu,"Password Changed",warning,low,true,2026-05-12
+test.student.mech.10@kathir.edu,"Achievement Added",achievement,high,true,2026-04-22
+test.student.mech.10@kathir.edu,"Marks Published",academic,high,true,2026-06-09
+test.student.mech.10@kathir.edu,"Password Changed",warning,high,true,2026-06-24
+test.student.mech.10@kathir.edu,"Announcement Published",announcement,low,false,2026-05-24
+test.student.mech.10@kathir.edu,"Attendance Below Threshold",warning,medium,false,2026-05-01
+test.student.mech.10@kathir.edu,"Query Resolved",query,low,false,2026-05-14
+test.student.mech.10@kathir.edu,"Query Submitted",query,urgent,false,2026-06-27
+test.student.mech.10@kathir.edu,"Hackathon Registration",info,low,false,2026-04-08
+test.student.mech.10@kathir.edu,"Attendance Updated",info,low,false,2026-05-25
+test.student.mech.10@kathir.edu,"Marks Published",academic,medium,true,2026-06-28
+test.student.mech.10@kathir.edu,"Announcement Published",announcement,high,false,2026-05-13
+test.student.mech.10@kathir.edu,"Workshop Reminder",info,low,true,2026-04-21
+test.student.civil.1@kathir.edu,"System Maintenance",system,low,false,2026-05-06
+test.student.civil.1@kathir.edu,"Workshop Reminder",info,low,false,2026-05-02
+test.student.civil.1@kathir.edu,"Announcement Published",announcement,medium,true,2026-04-26
+test.student.civil.1@kathir.edu,"Query Resolved",query,low,false,2026-06-13
+test.student.civil.1@kathir.edu,"Query Submitted",query,low,true,2026-05-22
+test.student.civil.1@kathir.edu,"Holiday Circular",announcement,medium,true,2026-06-07
+test.student.civil.1@kathir.edu,"Exam Schedule Released",academic,low,false,2026-04-19
+test.student.civil.1@kathir.edu,"System Maintenance",system,low,true,2026-04-22
+test.student.civil.1@kathir.edu,"Workshop Reminder",info,medium,false,2026-06-03
+test.student.civil.1@kathir.edu,"Achievement Added",achievement,urgent,true,2026-05-13
+test.student.civil.2@kathir.edu,"Attendance Below Threshold",warning,low,true,2026-06-11
+test.student.civil.2@kathir.edu,"Scholarship Update",info,low,true,2026-04-05
+test.student.civil.2@kathir.edu,"Attendance Updated",info,high,true,2026-04-30
+test.student.civil.2@kathir.edu,"Query Resolved",query,high,true,2026-06-30
+test.student.civil.2@kathir.edu,"Scholarship Update",info,high,false,2026-05-01
+test.student.civil.2@kathir.edu,"Attendance Below Threshold",warning,low,false,2026-04-20
+test.student.civil.2@kathir.edu,"Attendance Below Threshold",warning,medium,true,2026-05-21
+test.student.civil.2@kathir.edu,"Holiday Circular",announcement,medium,true,2026-04-15
+test.student.civil.3@kathir.edu,"Profile Updated",info,low,false,2026-04-16
+test.student.civil.3@kathir.edu,"Profile Updated",info,high,false,2026-05-29
+test.student.civil.3@kathir.edu,"Attendance Below Threshold",warning,medium,true,2026-05-10
+test.student.civil.3@kathir.edu,"Placement Drive",info,medium,false,2026-06-26
+test.student.civil.3@kathir.edu,"Library Reminder",warning,high,true,2026-06-07
+test.student.civil.3@kathir.edu,"Password Changed",warning,high,true,2026-04-27
+test.student.civil.3@kathir.edu,"Fee Reminder",warning,medium,true,2026-04-28
+test.student.civil.3@kathir.edu,"Hackathon Registration",info,high,false,2026-04-14
+test.student.civil.3@kathir.edu,"Query Submitted",query,medium,false,2026-06-05
+test.student.civil.3@kathir.edu,"Announcement Published",announcement,medium,true,2026-06-01
+test.student.civil.3@kathir.edu,"Attendance Updated",info,high,true,2026-04-18
+test.student.civil.3@kathir.edu,"System Maintenance",system,low,true,2026-04-16
+test.student.civil.3@kathir.edu,"Query Resolved",query,medium,true,2026-04-16
+test.student.civil.4@kathir.edu,"Query Submitted",query,medium,true,2026-05-08
+test.student.civil.4@kathir.edu,"Scholarship Update",info,low,true,2026-05-02
+test.student.civil.4@kathir.edu,"Scholarship Update",info,high,true,2026-05-15
+test.student.civil.4@kathir.edu,"Holiday Circular",announcement,medium,true,2026-06-07
+test.student.civil.4@kathir.edu,"Announcement Published",announcement,medium,false,2026-06-21
+test.student.civil.4@kathir.edu,"Attendance Updated",info,low,true,2026-04-08
+test.student.civil.5@kathir.edu,"Fee Reminder",warning,low,false,2026-05-22
+test.student.civil.5@kathir.edu,"Welcome Notification",info,medium,false,2026-04-20
+test.student.civil.5@kathir.edu,"Profile Updated",info,medium,false,2026-05-07
+test.student.civil.5@kathir.edu,"System Maintenance",system,high,true,2026-06-01
+test.student.civil.5@kathir.edu,"Holiday Circular",announcement,low,false,2026-06-20
+test.student.civil.5@kathir.edu,"System Maintenance",system,high,false,2026-05-22
+test.student.civil.6@kathir.edu,"Hackathon Registration",info,low,true,2026-06-18
+test.student.civil.6@kathir.edu,"Hackathon Registration",info,high,true,2026-06-25
+test.student.civil.6@kathir.edu,"System Maintenance",system,low,true,2026-05-11
+test.student.civil.6@kathir.edu,"Attendance Below Threshold",warning,medium,false,2026-05-27
+test.student.civil.6@kathir.edu,"Attendance Updated",info,medium,false,2026-04-28
+test.student.civil.6@kathir.edu,"Welcome Notification",info,medium,false,2026-06-11
+test.student.civil.6@kathir.edu,"Fee Reminder",warning,high,false,2026-05-20
+test.student.civil.6@kathir.edu,"Placement Drive",info,low,true,2026-06-16
+test.student.civil.6@kathir.edu,"Achievement Added",achievement,medium,false,2026-06-09
+test.student.civil.6@kathir.edu,"Query Submitted",query,medium,false,2026-06-07
+test.student.civil.6@kathir.edu,"Fee Reminder",warning,high,true,2026-06-04
+test.student.civil.6@kathir.edu,"Exam Schedule Released",academic,medium,false,2026-06-17
+test.student.civil.6@kathir.edu,"Library Reminder",warning,low,false,2026-04-29
+test.student.civil.6@kathir.edu,"Profile Updated",info,urgent,false,2026-04-28
+test.student.civil.6@kathir.edu,"Placement Drive",info,low,true,2026-06-17
+test.student.civil.6@kathir.edu,"Exam Schedule Released",academic,low,true,2026-06-08
+test.student.civil.6@kathir.edu,"Marks Published",academic,low,true,2026-05-19
+test.student.civil.6@kathir.edu,"Welcome Notification",info,medium,true,2026-06-23
+test.student.civil.6@kathir.edu,"Welcome Notification",info,low,true,2026-04-10
+test.student.civil.7@kathir.edu,"Marks Published",academic,medium,false,2026-04-29
+test.student.civil.7@kathir.edu,"Password Changed",warning,low,false,2026-04-13
+test.student.civil.7@kathir.edu,"Attendance Updated",info,high,true,2026-05-04
+test.student.civil.7@kathir.edu,"Attendance Updated",info,low,true,2026-06-21
+test.student.civil.7@kathir.edu,"Holiday Circular",announcement,low,false,2026-04-14
+test.student.civil.7@kathir.edu,"Exam Schedule Released",academic,low,false,2026-05-02
+test.student.civil.7@kathir.edu,"Password Changed",warning,low,true,2026-05-15
+test.student.civil.7@kathir.edu,"Password Changed",warning,high,false,2026-06-12
+test.student.civil.7@kathir.edu,"Exam Schedule Released",academic,low,true,2026-06-08
+test.student.civil.7@kathir.edu,"Hackathon Registration",info,low,true,2026-05-13
+test.student.civil.7@kathir.edu,"Achievement Added",achievement,high,true,2026-06-19
+test.student.civil.7@kathir.edu,"Attendance Below Threshold",warning,low,true,2026-06-28
+test.student.civil.7@kathir.edu,"Achievement Added",achievement,low,true,2026-05-12
+test.student.civil.7@kathir.edu,"Workshop Reminder",info,medium,true,2026-04-28
+test.student.civil.7@kathir.edu,"Internal Marks Updated",academic,urgent,true,2026-05-08
+test.student.civil.7@kathir.edu,"Exam Schedule Released",academic,medium,true,2026-05-20
+test.student.civil.7@kathir.edu,"Attendance Updated",info,medium,true,2026-06-20
+test.student.civil.7@kathir.edu,"Library Reminder",warning,medium,true,2026-04-16
+test.student.civil.8@kathir.edu,"Password Changed",warning,medium,true,2026-04-08
+test.student.civil.8@kathir.edu,"Marks Published",academic,high,false,2026-04-06
+test.student.civil.8@kathir.edu,"Internal Marks Updated",academic,medium,true,2026-05-28
+test.student.civil.8@kathir.edu,"Holiday Circular",announcement,high,true,2026-04-22
+test.student.civil.8@kathir.edu,"Attendance Updated",info,high,false,2026-04-18
+test.student.civil.8@kathir.edu,"Query Submitted",query,low,false,2026-06-18
+test.student.civil.8@kathir.edu,"Welcome Notification",info,medium,true,2026-06-02
+test.student.civil.8@kathir.edu,"Attendance Updated",info,low,true,2026-06-29
+test.student.civil.8@kathir.edu,"Workshop Reminder",info,low,true,2026-06-03
+test.student.civil.9@kathir.edu,"Welcome Notification",info,low,false,2026-06-20
+test.student.civil.9@kathir.edu,"Fee Reminder",warning,medium,true,2026-05-31
+test.student.civil.9@kathir.edu,"Library Reminder",warning,medium,false,2026-04-15
+test.student.civil.9@kathir.edu,"Internal Marks Updated",academic,high,false,2026-06-21
+test.student.civil.9@kathir.edu,"Fee Reminder",warning,low,true,2026-04-30
+test.student.civil.9@kathir.edu,"Fee Reminder",warning,medium,true,2026-04-26
+test.student.civil.9@kathir.edu,"Fee Reminder",warning,medium,true,2026-04-08
+test.student.civil.9@kathir.edu,"Library Reminder",warning,medium,false,2026-06-02
+test.student.civil.9@kathir.edu,"Announcement Published",announcement,low,true,2026-06-05
+test.student.civil.9@kathir.edu,"Query Submitted",query,high,true,2026-05-05
+test.student.civil.10@kathir.edu,"Announcement Published",announcement,low,false,2026-05-10
+test.student.civil.10@kathir.edu,"Profile Updated",info,low,false,2026-06-23
+test.student.civil.10@kathir.edu,"Exam Schedule Released",academic,low,true,2026-04-09
+test.student.civil.10@kathir.edu,"Internal Marks Updated",academic,high,false,2026-05-03
+test.student.civil.10@kathir.edu,"Marks Published",academic,low,true,2026-05-17
+test.student.civil.10@kathir.edu,"Achievement Added",achievement,low,false,2026-06-01
+test.student.civil.10@kathir.edu,"Query Submitted",query,medium,false,2026-05-06
+test.student.civil.10@kathir.edu,"Welcome Notification",info,medium,true,2026-06-10
+test.student.civil.10@kathir.edu,"Exam Schedule Released",academic,medium,true,2026-05-16
+test.student.civil.10@kathir.edu,"System Maintenance",system,medium,true,2026-05-13
+test.student.civil.10@kathir.edu,"Announcement Published",announcement,medium,false,2026-06-06
+test.student.civil.10@kathir.edu,"System Maintenance",system,medium,true,2026-06-21
+test.student.civil.10@kathir.edu,"Workshop Reminder",info,medium,true,2026-05-17
+test.student.civil.10@kathir.edu,"Hackathon Registration",info,medium,true,2026-04-15
+test.student.civil.10@kathir.edu,"Hackathon Registration",info,low,false,2026-06-14
+test.student.civil.10@kathir.edu,"Holiday Circular",announcement,medium,true,2026-04-10
+test.student.civil.10@kathir.edu,"Attendance Below Threshold",warning,low,true,2026-06-15
+test.student.civil.10@kathir.edu,"Scholarship Update",info,low,false,2026-06-19
+test.student.civil.10@kathir.edu,"Hackathon Registration",info,low,true,2026-04-25
+test.student.aids.1@kathir.edu,"Achievement Added",achievement,low,true,2026-06-12
+test.student.aids.1@kathir.edu,"Fee Reminder",warning,low,true,2026-04-30
+test.student.aids.1@kathir.edu,"Query Submitted",query,medium,true,2026-05-25
+test.student.aids.1@kathir.edu,"Welcome Notification",info,low,false,2026-05-26
+test.student.aids.1@kathir.edu,"Welcome Notification",info,low,true,2026-04-03
+test.student.aids.1@kathir.edu,"Attendance Updated",info,medium,true,2026-06-14
+test.student.aids.1@kathir.edu,"Welcome Notification",info,high,false,2026-04-30
+test.student.aids.1@kathir.edu,"Password Changed",warning,high,false,2026-05-13
+test.student.aids.1@kathir.edu,"Internal Marks Updated",academic,low,true,2026-06-28
+test.student.aids.1@kathir.edu,"Query Submitted",query,medium,true,2026-04-08
+test.student.aids.1@kathir.edu,"Attendance Below Threshold",warning,low,true,2026-04-03
+test.student.aids.1@kathir.edu,"Holiday Circular",announcement,low,true,2026-06-09
+test.student.aids.1@kathir.edu,"Password Changed",warning,low,true,2026-05-01
+test.student.aids.1@kathir.edu,"Holiday Circular",announcement,high,true,2026-06-17
+test.student.aids.2@kathir.edu,"Announcement Published",announcement,medium,true,2026-04-15
+test.student.aids.2@kathir.edu,"Hackathon Registration",info,low,true,2026-05-28
+test.student.aids.2@kathir.edu,"Fee Reminder",warning,medium,true,2026-04-29
+test.student.aids.2@kathir.edu,"Achievement Added",achievement,medium,true,2026-04-09
+test.student.aids.2@kathir.edu,"Exam Schedule Released",academic,low,false,2026-05-27
+test.student.aids.2@kathir.edu,"Placement Drive",info,low,true,2026-04-03
+test.student.aids.2@kathir.edu,"Fee Reminder",warning,medium,false,2026-05-24
+test.student.aids.2@kathir.edu,"Hackathon Registration",info,low,true,2026-05-24
+test.student.aids.2@kathir.edu,"Workshop Reminder",info,low,false,2026-04-09
+test.student.aids.2@kathir.edu,"Fee Reminder",warning,medium,true,2026-04-08
+test.student.aids.2@kathir.edu,"Query Resolved",query,low,true,2026-06-28
+test.student.aids.2@kathir.edu,"Welcome Notification",info,low,true,2026-06-01
+test.student.aids.2@kathir.edu,"System Maintenance",system,high,true,2026-04-24
+test.student.aids.2@kathir.edu,"Query Submitted",query,medium,true,2026-06-09
+test.student.aids.2@kathir.edu,"Internal Marks Updated",academic,medium,false,2026-05-28
+test.student.aids.2@kathir.edu,"Workshop Reminder",info,low,true,2026-05-13
+test.student.aids.2@kathir.edu,"Password Changed",warning,medium,true,2026-05-14
+test.student.aids.3@kathir.edu,"Internal Marks Updated",academic,medium,true,2026-06-24
+test.student.aids.3@kathir.edu,"Library Reminder",warning,medium,false,2026-04-30
+test.student.aids.3@kathir.edu,"Query Submitted",query,high,true,2026-05-13
+test.student.aids.3@kathir.edu,"Query Resolved",query,low,false,2026-05-31
+test.student.aids.3@kathir.edu,"Attendance Below Threshold",warning,high,true,2026-06-10
+test.student.aids.3@kathir.edu,"Announcement Published",announcement,low,true,2026-06-08
+test.student.aids.3@kathir.edu,"Attendance Below Threshold",warning,medium,true,2026-06-14
+test.student.aids.3@kathir.edu,"Welcome Notification",info,medium,true,2026-06-08
+test.student.aids.3@kathir.edu,"Profile Updated",info,high,true,2026-06-26
+test.student.aids.3@kathir.edu,"Placement Drive",info,medium,true,2026-05-15
+test.student.aids.3@kathir.edu,"Profile Updated",info,low,true,2026-06-11
+test.student.aids.3@kathir.edu,"Placement Drive",info,low,true,2026-05-03
+test.student.aids.3@kathir.edu,"Attendance Updated",info,high,false,2026-05-31
+test.student.aids.3@kathir.edu,"Fee Reminder",warning,low,false,2026-06-06
+test.student.aids.3@kathir.edu,"Achievement Added",achievement,medium,false,2026-06-06
+test.student.aids.3@kathir.edu,"Announcement Published",announcement,low,true,2026-05-26
+test.student.aids.4@kathir.edu,"Workshop Reminder",info,low,true,2026-06-06
+test.student.aids.4@kathir.edu,"Library Reminder",warning,low,false,2026-06-12
+test.student.aids.4@kathir.edu,"Hackathon Registration",info,high,true,2026-05-09
+test.student.aids.4@kathir.edu,"Query Resolved",query,low,false,2026-04-10
+test.student.aids.4@kathir.edu,"Achievement Added",achievement,medium,true,2026-04-12
+test.student.aids.4@kathir.edu,"Hackathon Registration",info,high,true,2026-04-29
+test.student.aids.4@kathir.edu,"Placement Drive",info,low,false,2026-05-07
+test.student.aids.4@kathir.edu,"Attendance Updated",info,low,true,2026-04-30
+test.student.aids.4@kathir.edu,"Profile Updated",info,low,false,2026-05-12
+test.student.aids.4@kathir.edu,"Placement Drive",info,medium,false,2026-04-13
+test.student.aids.4@kathir.edu,"Hackathon Registration",info,low,true,2026-06-02
+test.student.aids.4@kathir.edu,"Workshop Reminder",info,low,true,2026-04-28
+test.student.aids.4@kathir.edu,"Internal Marks Updated",academic,medium,false,2026-06-18
+test.student.aids.4@kathir.edu,"Exam Schedule Released",academic,high,false,2026-06-17
+test.student.aids.4@kathir.edu,"Achievement Added",achievement,low,false,2026-04-28
+test.student.aids.4@kathir.edu,"Profile Updated",info,low,false,2026-04-05
+test.student.aids.5@kathir.edu,"System Maintenance",system,medium,true,2026-04-09
+test.student.aids.5@kathir.edu,"Internal Marks Updated",academic,medium,true,2026-06-18
+test.student.aids.5@kathir.edu,"Scholarship Update",info,high,false,2026-05-30
+test.student.aids.5@kathir.edu,"Attendance Below Threshold",warning,high,false,2026-05-29
+test.student.aids.5@kathir.edu,"Attendance Below Threshold",warning,medium,true,2026-04-09
+test.student.aids.5@kathir.edu,"Fee Reminder",warning,high,true,2026-04-22
+test.student.aids.5@kathir.edu,"Holiday Circular",announcement,medium,true,2026-04-29
+test.student.aids.5@kathir.edu,"Scholarship Update",info,low,true,2026-05-16
+test.student.aids.5@kathir.edu,"Scholarship Update",info,high,true,2026-06-06
+test.student.aids.5@kathir.edu,"Attendance Below Threshold",warning,medium,true,2026-05-01
+test.student.aids.5@kathir.edu,"Welcome Notification",info,low,true,2026-05-25
+test.student.aids.5@kathir.edu,"Announcement Published",announcement,low,true,2026-06-18
+test.student.aids.5@kathir.edu,"Holiday Circular",announcement,high,true,2026-05-21
+test.student.aids.5@kathir.edu,"Scholarship Update",info,urgent,false,2026-04-10
+test.student.aids.6@kathir.edu,"Achievement Added",achievement,low,true,2026-04-29
+test.student.aids.6@kathir.edu,"Marks Published",academic,low,false,2026-05-30
+test.student.aids.6@kathir.edu,"System Maintenance",system,medium,false,2026-06-27
+test.student.aids.6@kathir.edu,"Query Resolved",query,high,true,2026-06-06
+test.student.aids.6@kathir.edu,"Password Changed",warning,low,true,2026-04-22
+test.student.aids.6@kathir.edu,"Achievement Added",achievement,medium,false,2026-06-17
+test.student.aids.6@kathir.edu,"Marks Published",academic,high,true,2026-04-24
+test.student.aids.6@kathir.edu,"Announcement Published",announcement,medium,true,2026-05-20
+test.student.aids.7@kathir.edu,"Achievement Added",achievement,medium,false,2026-05-21
+test.student.aids.7@kathir.edu,"Attendance Below Threshold",warning,low,true,2026-06-13
+test.student.aids.7@kathir.edu,"Placement Drive",info,medium,true,2026-06-20
+test.student.aids.7@kathir.edu,"Attendance Updated",info,high,true,2026-05-03
+test.student.aids.7@kathir.edu,"Attendance Updated",info,high,true,2026-05-31
+test.student.aids.8@kathir.edu,"Placement Drive",info,medium,false,2026-06-30
+test.student.aids.8@kathir.edu,"Holiday Circular",announcement,low,false,2026-05-19
+test.student.aids.8@kathir.edu,"System Maintenance",system,medium,true,2026-06-08
+test.student.aids.8@kathir.edu,"Fee Reminder",warning,low,true,2026-06-10
+test.student.aids.8@kathir.edu,"Profile Updated",info,low,true,2026-04-09
+test.student.aids.9@kathir.edu,"Scholarship Update",info,medium,true,2026-04-10
+test.student.aids.9@kathir.edu,"System Maintenance",system,medium,false,2026-06-19
+test.student.aids.9@kathir.edu,"Profile Updated",info,high,true,2026-04-23
+test.student.aids.9@kathir.edu,"Internal Marks Updated",academic,low,false,2026-05-28
+test.student.aids.9@kathir.edu,"System Maintenance",system,high,true,2026-04-18
+test.student.aids.9@kathir.edu,"System Maintenance",system,low,true,2026-05-07
+test.student.aids.9@kathir.edu,"Internal Marks Updated",academic,high,true,2026-04-21
+test.student.aids.9@kathir.edu,"Query Submitted",query,medium,true,2026-04-03
+test.student.aids.9@kathir.edu,"System Maintenance",system,low,true,2026-06-22
+test.student.aids.9@kathir.edu,"System Maintenance",system,high,false,2026-06-04
+test.student.aids.9@kathir.edu,"Password Changed",warning,low,true,2026-05-27
+test.student.aids.9@kathir.edu,"Password Changed",warning,medium,true,2026-05-07
+test.student.aids.9@kathir.edu,"Fee Reminder",warning,medium,true,2026-04-20
+test.student.aids.9@kathir.edu,"Holiday Circular",announcement,medium,true,2026-06-05
+test.student.aids.10@kathir.edu,"Placement Drive",info,low,true,2026-06-02
+test.student.aids.10@kathir.edu,"Holiday Circular",announcement,low,true,2026-05-08
+test.student.aids.10@kathir.edu,"Hackathon Registration",info,medium,true,2026-06-09
+test.student.aids.10@kathir.edu,"Exam Schedule Released",academic,low,true,2026-05-06
+test.student.aids.10@kathir.edu,"Profile Updated",info,medium,true,2026-05-26
+test.student.aids.10@kathir.edu,"Profile Updated",info,medium,true,2026-05-24
+test.student.aids.10@kathir.edu,"System Maintenance",system,high,true,2026-04-14
+test.student.aids.10@kathir.edu,"Query Submitted",query,high,true,2026-04-08
+test.student.aids.10@kathir.edu,"System Maintenance",system,high,true,2026-05-02
+test.faculty.ece.1@kathir.edu,"Query Resolved",query,medium,false,2026-06-24
+test.faculty.ece.1@kathir.edu,"Exam Schedule Released",academic,low,true,2026-04-22
+test.faculty.ece.1@kathir.edu,"Announcement Published",announcement,medium,true,2026-04-24
+test.faculty.ece.1@kathir.edu,"Welcome Notification",info,low,true,2026-06-30
+test.faculty.ece.1@kathir.edu,"Workshop Reminder",info,medium,true,2026-05-05
+test.faculty.ece.1@kathir.edu,"Query Resolved",query,high,false,2026-06-25
+test.faculty.ece.1@kathir.edu,"Holiday Circular",announcement,low,true,2026-05-07
+test.faculty.ece.1@kathir.edu,"Exam Schedule Released",academic,medium,true,2026-04-20
+test.faculty.ece.1@kathir.edu,"Welcome Notification",info,low,false,2026-04-17
+test.faculty.ece.1@kathir.edu,"Password Changed",warning,low,true,2026-05-20
+test.faculty.ece.1@kathir.edu,"System Maintenance",system,high,true,2026-06-12
+test.faculty.ece.1@kathir.edu,"Holiday Circular",announcement,high,false,2026-06-18
+test.faculty.ece.1@kathir.edu,"Query Submitted",query,medium,false,2026-06-24
+test.faculty.ece.1@kathir.edu,"Welcome Notification",info,medium,false,2026-06-07
+test.faculty.ece.2@kathir.edu,"Welcome Notification",info,low,false,2026-04-03
+test.faculty.ece.2@kathir.edu,"System Maintenance",system,low,true,2026-05-19
+test.faculty.ece.2@kathir.edu,"Exam Schedule Released",academic,low,true,2026-04-23
+test.faculty.ece.2@kathir.edu,"Announcement Published",announcement,medium,false,2026-05-07
+test.faculty.ece.2@kathir.edu,"System Maintenance",system,low,true,2026-05-22
+test.faculty.ece.2@kathir.edu,"Profile Updated",info,medium,true,2026-06-25
+test.faculty.ece.2@kathir.edu,"Library Reminder",warning,high,true,2026-06-30
+test.faculty.ece.2@kathir.edu,"Holiday Circular",announcement,urgent,true,2026-05-26
+test.faculty.ece.2@kathir.edu,"Query Submitted",query,medium,true,2026-04-30
+test.faculty.ece.2@kathir.edu,"Query Resolved",query,high,true,2026-06-05
+test.faculty.ece.3@kathir.edu,"Query Submitted",query,high,true,2026-06-18
+test.faculty.ece.3@kathir.edu,"Workshop Reminder",info,high,false,2026-04-15
+test.faculty.ece.3@kathir.edu,"Announcement Published",announcement,high,true,2026-05-27
+test.faculty.ece.3@kathir.edu,"Query Submitted",query,medium,true,2026-05-07
+test.faculty.ece.3@kathir.edu,"Query Resolved",query,low,false,2026-05-21
+test.faculty.ece.3@kathir.edu,"Announcement Published",announcement,medium,true,2026-05-07
+test.faculty.ece.3@kathir.edu,"Profile Updated",info,low,true,2026-04-27
+test.faculty.ece.3@kathir.edu,"Query Submitted",query,low,false,2026-04-23
+test.faculty.ece.3@kathir.edu,"Profile Updated",info,medium,true,2026-06-23
+test.faculty.ece.3@kathir.edu,"System Maintenance",system,low,false,2026-05-14
+test.faculty.ece.3@kathir.edu,"Profile Updated",info,medium,false,2026-04-20
+test.faculty.ece.3@kathir.edu,"Password Changed",warning,high,true,2026-06-23
+test.faculty.ece.3@kathir.edu,"Password Changed",warning,low,false,2026-05-07
+test.faculty.ece.3@kathir.edu,"Password Changed",warning,high,false,2026-05-09
+test.faculty.ece.3@kathir.edu,"Holiday Circular",announcement,high,false,2026-05-29
+test.faculty.ece.3@kathir.edu,"Workshop Reminder",info,medium,true,2026-04-22
+test.faculty.ece.3@kathir.edu,"System Maintenance",system,high,false,2026-05-09
+test.faculty.ece.4@kathir.edu,"Query Submitted",query,low,true,2026-04-20
+test.faculty.ece.4@kathir.edu,"Query Resolved",query,high,true,2026-06-12
+test.faculty.ece.4@kathir.edu,"Exam Schedule Released",academic,medium,false,2026-06-25
+test.faculty.ece.4@kathir.edu,"Workshop Reminder",info,low,true,2026-06-30
+test.faculty.ece.4@kathir.edu,"Query Resolved",query,low,true,2026-05-03
+test.faculty.ece.4@kathir.edu,"Welcome Notification",info,medium,true,2026-06-25
+test.faculty.ece.4@kathir.edu,"Query Submitted",query,high,false,2026-04-11
+test.faculty.ece.4@kathir.edu,"Announcement Published",announcement,low,true,2026-06-26
+test.faculty.ece.4@kathir.edu,"Library Reminder",warning,low,true,2026-04-15
+test.faculty.ece.5@kathir.edu,"Library Reminder",warning,medium,true,2026-05-10
+test.faculty.ece.5@kathir.edu,"Query Resolved",query,medium,true,2026-04-18
+test.faculty.ece.5@kathir.edu,"Announcement Published",announcement,low,true,2026-04-06
+test.faculty.ece.5@kathir.edu,"Exam Schedule Released",academic,medium,false,2026-05-03
+test.faculty.ece.5@kathir.edu,"Profile Updated",info,low,true,2026-04-26
+test.faculty.ece.5@kathir.edu,"Query Resolved",query,high,true,2026-05-02
+test.faculty.cse.1@kathir.edu,"Password Changed",warning,medium,true,2026-04-29
+test.faculty.cse.1@kathir.edu,"Workshop Reminder",info,medium,false,2026-04-30
+test.faculty.cse.1@kathir.edu,"Password Changed",warning,medium,false,2026-06-08
+test.faculty.cse.1@kathir.edu,"Query Resolved",query,low,true,2026-06-05
+test.faculty.cse.1@kathir.edu,"Library Reminder",warning,medium,true,2026-05-24
+test.faculty.cse.1@kathir.edu,"Query Resolved",query,medium,false,2026-06-28
+test.faculty.cse.1@kathir.edu,"Profile Updated",info,low,false,2026-06-25
+test.faculty.cse.1@kathir.edu,"Holiday Circular",announcement,medium,true,2026-04-11
+test.faculty.cse.2@kathir.edu,"Query Submitted",query,low,true,2026-06-06
+test.faculty.cse.2@kathir.edu,"Exam Schedule Released",academic,low,true,2026-05-24
+test.faculty.cse.2@kathir.edu,"Holiday Circular",announcement,low,true,2026-04-09
+test.faculty.cse.2@kathir.edu,"Welcome Notification",info,urgent,false,2026-05-24
+test.faculty.cse.2@kathir.edu,"Announcement Published",announcement,medium,false,2026-06-05
+test.faculty.cse.2@kathir.edu,"Workshop Reminder",info,medium,true,2026-06-09
+test.faculty.cse.2@kathir.edu,"Workshop Reminder",info,medium,false,2026-05-12
+test.faculty.cse.2@kathir.edu,"Announcement Published",announcement,low,false,2026-07-01
+test.faculty.cse.3@kathir.edu,"Exam Schedule Released",academic,low,true,2026-05-30
+test.faculty.cse.3@kathir.edu,"Holiday Circular",announcement,low,false,2026-05-15
+test.faculty.cse.3@kathir.edu,"Password Changed",warning,medium,false,2026-06-07
+test.faculty.cse.3@kathir.edu,"Query Resolved",query,low,true,2026-05-22
+test.faculty.cse.3@kathir.edu,"Query Resolved",query,medium,false,2026-05-12
+test.faculty.cse.3@kathir.edu,"Library Reminder",warning,urgent,true,2026-04-26
+test.faculty.cse.3@kathir.edu,"Query Resolved",query,low,true,2026-06-19
+test.faculty.cse.3@kathir.edu,"Holiday Circular",announcement,medium,false,2026-05-04
+test.faculty.cse.3@kathir.edu,"Query Resolved",query,low,false,2026-04-25
+test.faculty.cse.3@kathir.edu,"Password Changed",warning,high,true,2026-05-10
+test.faculty.cse.3@kathir.edu,"Query Resolved",query,high,true,2026-04-14
+test.faculty.cse.3@kathir.edu,"Workshop Reminder",info,high,true,2026-04-12
+test.faculty.cse.4@kathir.edu,"Query Submitted",query,medium,true,2026-05-20
+test.faculty.cse.4@kathir.edu,"Welcome Notification",info,medium,false,2026-06-19
+test.faculty.cse.4@kathir.edu,"Workshop Reminder",info,high,true,2026-06-15
+test.faculty.cse.4@kathir.edu,"Password Changed",warning,high,true,2026-05-07
+test.faculty.cse.4@kathir.edu,"Profile Updated",info,low,true,2026-04-04
+test.faculty.cse.4@kathir.edu,"Query Submitted",query,low,false,2026-05-03
+test.faculty.cse.4@kathir.edu,"Exam Schedule Released",academic,high,true,2026-04-27
+test.faculty.cse.4@kathir.edu,"Query Submitted",query,medium,false,2026-05-24
+test.faculty.cse.4@kathir.edu,"Exam Schedule Released",academic,high,false,2026-04-08
+test.faculty.cse.4@kathir.edu,"Library Reminder",warning,high,false,2026-06-08
+test.faculty.cse.4@kathir.edu,"Exam Schedule Released",academic,low,true,2026-05-15
+test.faculty.cse.4@kathir.edu,"Profile Updated",info,low,true,2026-05-28
+test.faculty.cse.4@kathir.edu,"Profile Updated",info,low,true,2026-04-29
+test.faculty.cse.5@kathir.edu,"Query Submitted",query,low,true,2026-06-22
+test.faculty.cse.5@kathir.edu,"Profile Updated",info,low,true,2026-06-08
+test.faculty.cse.5@kathir.edu,"Holiday Circular",announcement,low,false,2026-05-10
+test.faculty.cse.5@kathir.edu,"Query Resolved",query,low,true,2026-04-28
+test.faculty.cse.5@kathir.edu,"Announcement Published",announcement,low,true,2026-05-11
+test.faculty.cse.5@kathir.edu,"Password Changed",warning,medium,true,2026-05-17
+test.faculty.cse.5@kathir.edu,"Exam Schedule Released",academic,low,true,2026-05-12
+test.faculty.cse.5@kathir.edu,"Query Resolved",query,urgent,false,2026-05-04
+test.faculty.cse.5@kathir.edu,"Password Changed",warning,low,true,2026-04-04
+test.faculty.cse.5@kathir.edu,"Welcome Notification",info,high,true,2026-04-11
+test.faculty.cse.5@kathir.edu,"Library Reminder",warning,high,true,2026-06-11
+test.faculty.cse.5@kathir.edu,"Announcement Published",announcement,low,false,2026-05-22
+test.faculty.eee.1@kathir.edu,"Exam Schedule Released",academic,medium,true,2026-06-29
+test.faculty.eee.1@kathir.edu,"Announcement Published",announcement,medium,false,2026-05-24
+test.faculty.eee.1@kathir.edu,"Query Submitted",query,medium,true,2026-05-17
+test.faculty.eee.1@kathir.edu,"Welcome Notification",info,low,true,2026-04-23
+test.faculty.eee.1@kathir.edu,"Library Reminder",warning,medium,true,2026-06-22
+test.faculty.eee.1@kathir.edu,"Query Submitted",query,low,false,2026-05-13
+test.faculty.eee.1@kathir.edu,"Announcement Published",announcement,low,false,2026-04-29
+test.faculty.eee.1@kathir.edu,"Announcement Published",announcement,low,true,2026-05-29
+test.faculty.eee.1@kathir.edu,"Announcement Published",announcement,medium,true,2026-04-17
+test.faculty.eee.1@kathir.edu,"Exam Schedule Released",academic,medium,true,2026-05-17
+test.faculty.eee.1@kathir.edu,"System Maintenance",system,low,true,2026-06-23
+test.faculty.eee.1@kathir.edu,"Profile Updated",info,medium,true,2026-05-22
+test.faculty.eee.1@kathir.edu,"Profile Updated",info,medium,true,2026-06-23
+test.faculty.eee.1@kathir.edu,"Holiday Circular",announcement,low,true,2026-05-12
+test.faculty.eee.1@kathir.edu,"Library Reminder",warning,high,true,2026-05-20
+test.faculty.eee.1@kathir.edu,"Welcome Notification",info,high,false,2026-05-14
+test.faculty.eee.1@kathir.edu,"Profile Updated",info,high,true,2026-04-14
+test.faculty.eee.2@kathir.edu,"Query Resolved",query,low,false,2026-05-07
+test.faculty.eee.2@kathir.edu,"Password Changed",warning,high,true,2026-05-09
+test.faculty.eee.2@kathir.edu,"Announcement Published",announcement,high,false,2026-06-14
+test.faculty.eee.2@kathir.edu,"Library Reminder",warning,high,true,2026-05-04
+test.faculty.eee.2@kathir.edu,"Password Changed",warning,high,true,2026-06-04
+test.faculty.eee.2@kathir.edu,"Exam Schedule Released",academic,medium,true,2026-06-07
+test.faculty.eee.2@kathir.edu,"Welcome Notification",info,medium,true,2026-06-26
+test.faculty.eee.3@kathir.edu,"System Maintenance",system,high,true,2026-07-01
+test.faculty.eee.3@kathir.edu,"Welcome Notification",info,high,false,2026-04-08
+test.faculty.eee.3@kathir.edu,"Workshop Reminder",info,low,true,2026-05-20
+test.faculty.eee.3@kathir.edu,"Query Submitted",query,high,true,2026-05-12
+test.faculty.eee.3@kathir.edu,"System Maintenance",system,high,true,2026-04-28
+test.faculty.eee.3@kathir.edu,"Password Changed",warning,urgent,true,2026-06-02
+test.faculty.eee.3@kathir.edu,"Library Reminder",warning,low,true,2026-05-23
+test.faculty.eee.3@kathir.edu,"Workshop Reminder",info,low,false,2026-05-27
+test.faculty.eee.3@kathir.edu,"Welcome Notification",info,low,true,2026-05-08
+test.faculty.eee.3@kathir.edu,"Library Reminder",warning,medium,true,2026-06-30
+test.faculty.eee.3@kathir.edu,"Holiday Circular",announcement,medium,true,2026-05-03
+test.faculty.eee.3@kathir.edu,"Exam Schedule Released",academic,low,true,2026-05-31
+test.faculty.eee.3@kathir.edu,"Holiday Circular",announcement,low,true,2026-05-28
+test.faculty.eee.3@kathir.edu,"Holiday Circular",announcement,low,true,2026-06-15
+test.faculty.eee.3@kathir.edu,"Exam Schedule Released",academic,low,true,2026-04-19
+test.faculty.eee.4@kathir.edu,"Exam Schedule Released",academic,medium,true,2026-05-19
+test.faculty.eee.4@kathir.edu,"Exam Schedule Released",academic,low,true,2026-04-12
+test.faculty.eee.4@kathir.edu,"Profile Updated",info,low,false,2026-06-02
+test.faculty.eee.4@kathir.edu,"System Maintenance",system,low,true,2026-06-25
+test.faculty.eee.4@kathir.edu,"Query Resolved",query,low,false,2026-05-05
+test.faculty.eee.4@kathir.edu,"Exam Schedule Released",academic,medium,false,2026-05-27
+test.faculty.eee.4@kathir.edu,"System Maintenance",system,medium,true,2026-05-07
+test.faculty.eee.5@kathir.edu,"Exam Schedule Released",academic,medium,true,2026-06-25
+test.faculty.eee.5@kathir.edu,"Password Changed",warning,medium,true,2026-06-11
+test.faculty.eee.5@kathir.edu,"Announcement Published",announcement,medium,true,2026-05-27
+test.faculty.eee.5@kathir.edu,"Password Changed",warning,medium,true,2026-05-11
+test.faculty.eee.5@kathir.edu,"Announcement Published",announcement,high,false,2026-06-27
+test.faculty.eee.5@kathir.edu,"Exam Schedule Released",academic,low,false,2026-06-05
+test.faculty.eee.5@kathir.edu,"System Maintenance",system,medium,false,2026-05-20
+test.faculty.eee.5@kathir.edu,"Profile Updated",info,urgent,true,2026-04-10
+test.faculty.eee.5@kathir.edu,"System Maintenance",system,high,false,2026-06-23
+test.faculty.eee.5@kathir.edu,"Profile Updated",info,medium,false,2026-06-06
+test.faculty.eee.5@kathir.edu,"System Maintenance",system,medium,false,2026-05-17
+test.faculty.eee.5@kathir.edu,"Password Changed",warning,low,true,2026-06-09
+test.faculty.eee.5@kathir.edu,"Password Changed",warning,medium,true,2026-04-05
+test.faculty.eee.5@kathir.edu,"Query Submitted",query,low,false,2026-06-20
+test.faculty.eee.5@kathir.edu,"Exam Schedule Released",academic,medium,false,2026-05-25
+test.faculty.eee.5@kathir.edu,"Holiday Circular",announcement,low,true,2026-06-14
+test.faculty.eee.5@kathir.edu,"Exam Schedule Released",academic,high,true,2026-06-05
+test.faculty.mech.1@kathir.edu,"Query Resolved",query,low,false,2026-04-22
+test.faculty.mech.1@kathir.edu,"Query Submitted",query,low,false,2026-04-24
+test.faculty.mech.1@kathir.edu,"Password Changed",warning,medium,true,2026-06-23
+test.faculty.mech.1@kathir.edu,"Query Resolved",query,high,true,2026-06-13
+test.faculty.mech.1@kathir.edu,"Query Resolved",query,low,false,2026-05-08
+test.faculty.mech.1@kathir.edu,"Library Reminder",warning,low,true,2026-04-13
+test.faculty.mech.1@kathir.edu,"Query Resolved",query,low,false,2026-04-09
+test.faculty.mech.2@kathir.edu,"Password Changed",warning,medium,false,2026-06-29
+test.faculty.mech.2@kathir.edu,"Profile Updated",info,medium,false,2026-07-01
+test.faculty.mech.2@kathir.edu,"Workshop Reminder",info,low,false,2026-05-19
+test.faculty.mech.2@kathir.edu,"Welcome Notification",info,low,true,2026-04-15
+test.faculty.mech.2@kathir.edu,"Library Reminder",warning,low,false,2026-05-06
+test.faculty.mech.2@kathir.edu,"Workshop Reminder",info,high,true,2026-06-04
+test.faculty.mech.2@kathir.edu,"Holiday Circular",announcement,high,true,2026-04-09
+test.faculty.mech.2@kathir.edu,"Profile Updated",info,low,false,2026-06-13
+test.faculty.mech.2@kathir.edu,"System Maintenance",system,low,false,2026-05-30
+test.faculty.mech.2@kathir.edu,"Announcement Published",announcement,low,true,2026-04-23
+test.faculty.mech.2@kathir.edu,"Exam Schedule Released",academic,low,true,2026-05-24
+test.faculty.mech.2@kathir.edu,"Announcement Published",announcement,medium,true,2026-04-21
+test.faculty.mech.2@kathir.edu,"Profile Updated",info,high,false,2026-04-11
+test.faculty.mech.2@kathir.edu,"Query Resolved",query,low,true,2026-06-14
+test.faculty.mech.2@kathir.edu,"Profile Updated",info,medium,false,2026-04-20
+test.faculty.mech.2@kathir.edu,"Password Changed",warning,high,false,2026-06-02
+test.faculty.mech.2@kathir.edu,"Profile Updated",info,low,true,2026-04-29
+test.faculty.mech.2@kathir.edu,"Holiday Circular",announcement,high,false,2026-04-12
+test.faculty.mech.3@kathir.edu,"Workshop Reminder",info,low,false,2026-06-15
+test.faculty.mech.3@kathir.edu,"Workshop Reminder",info,low,true,2026-06-16
+test.faculty.mech.3@kathir.edu,"Password Changed",warning,high,true,2026-05-13
+test.faculty.mech.3@kathir.edu,"Library Reminder",warning,high,true,2026-04-15
+test.faculty.mech.3@kathir.edu,"Workshop Reminder",info,medium,true,2026-04-29
+test.faculty.mech.3@kathir.edu,"Announcement Published",announcement,medium,true,2026-04-03
+test.faculty.mech.3@kathir.edu,"Profile Updated",info,low,true,2026-05-21
+test.faculty.mech.3@kathir.edu,"Announcement Published",announcement,medium,true,2026-05-26
+test.faculty.mech.3@kathir.edu,"Password Changed",warning,low,true,2026-04-14
+test.faculty.mech.3@kathir.edu,"Announcement Published",announcement,high,true,2026-05-01
+test.faculty.mech.3@kathir.edu,"System Maintenance",system,low,false,2026-05-02
+test.faculty.mech.3@kathir.edu,"Exam Schedule Released",academic,high,true,2026-05-27
+test.faculty.mech.4@kathir.edu,"Welcome Notification",info,medium,false,2026-06-24
+test.faculty.mech.4@kathir.edu,"Query Resolved",query,high,true,2026-05-06
+test.faculty.mech.4@kathir.edu,"Library Reminder",warning,low,true,2026-04-08
+test.faculty.mech.4@kathir.edu,"Query Submitted",query,medium,true,2026-04-14
+test.faculty.mech.4@kathir.edu,"System Maintenance",system,high,true,2026-05-08
+test.faculty.mech.4@kathir.edu,"Announcement Published",announcement,high,false,2026-05-13
+test.faculty.mech.4@kathir.edu,"System Maintenance",system,medium,false,2026-05-13
+test.faculty.mech.4@kathir.edu,"Query Submitted",query,high,true,2026-05-31
+test.faculty.mech.4@kathir.edu,"Profile Updated",info,urgent,false,2026-05-13
+test.faculty.mech.4@kathir.edu,"Query Resolved",query,high,false,2026-04-10
+test.faculty.mech.4@kathir.edu,"Library Reminder",warning,low,false,2026-04-24
+test.faculty.mech.5@kathir.edu,"Query Resolved",query,low,true,2026-06-21
+test.faculty.mech.5@kathir.edu,"Holiday Circular",announcement,medium,true,2026-04-06
+test.faculty.mech.5@kathir.edu,"Password Changed",warning,medium,true,2026-06-28
+test.faculty.mech.5@kathir.edu,"Query Submitted",query,high,false,2026-06-18
+test.faculty.mech.5@kathir.edu,"Query Submitted",query,high,true,2026-05-12
+test.faculty.mech.5@kathir.edu,"Holiday Circular",announcement,low,false,2026-06-09
+test.faculty.mech.5@kathir.edu,"Workshop Reminder",info,medium,true,2026-05-21
+test.faculty.mech.5@kathir.edu,"Welcome Notification",info,high,true,2026-05-06
+test.faculty.mech.5@kathir.edu,"Password Changed",warning,medium,true,2026-06-30
+test.faculty.mech.5@kathir.edu,"Library Reminder",warning,high,false,2026-05-10
+test.faculty.mech.5@kathir.edu,"Profile Updated",info,medium,true,2026-04-24
+test.faculty.civil.1@kathir.edu,"Query Resolved",query,medium,false,2026-04-21
+test.faculty.civil.1@kathir.edu,"Holiday Circular",announcement,low,false,2026-04-24
+test.faculty.civil.1@kathir.edu,"Workshop Reminder",info,medium,false,2026-04-21
+test.faculty.civil.1@kathir.edu,"Exam Schedule Released",academic,low,true,2026-05-11
+test.faculty.civil.1@kathir.edu,"Library Reminder",warning,urgent,false,2026-04-03
+test.faculty.civil.2@kathir.edu,"Welcome Notification",info,low,true,2026-04-11
+test.faculty.civil.2@kathir.edu,"Password Changed",warning,medium,false,2026-06-09
+test.faculty.civil.2@kathir.edu,"Exam Schedule Released",academic,medium,true,2026-05-01
+test.faculty.civil.2@kathir.edu,"Exam Schedule Released",academic,low,true,2026-04-26
+test.faculty.civil.2@kathir.edu,"Welcome Notification",info,high,true,2026-06-24
+test.faculty.civil.2@kathir.edu,"Welcome Notification",info,medium,true,2026-06-03
+test.faculty.civil.2@kathir.edu,"Exam Schedule Released",academic,medium,true,2026-06-14
+test.faculty.civil.2@kathir.edu,"Workshop Reminder",info,high,true,2026-04-04
+test.faculty.civil.2@kathir.edu,"Workshop Reminder",info,high,true,2026-05-10
+test.faculty.civil.2@kathir.edu,"Welcome Notification",info,low,true,2026-04-06
+test.faculty.civil.2@kathir.edu,"Welcome Notification",info,high,true,2026-04-30
+test.faculty.civil.2@kathir.edu,"System Maintenance",system,high,false,2026-06-23
+test.faculty.civil.2@kathir.edu,"Welcome Notification",info,high,false,2026-05-12
+test.faculty.civil.2@kathir.edu,"Query Resolved",query,low,true,2026-06-27
+test.faculty.civil.2@kathir.edu,"Query Submitted",query,high,true,2026-04-08
+test.faculty.civil.2@kathir.edu,"Query Submitted",query,high,false,2026-05-14
+test.faculty.civil.2@kathir.edu,"Library Reminder",warning,medium,false,2026-06-30
+test.faculty.civil.2@kathir.edu,"Library Reminder",warning,urgent,false,2026-04-24
+test.faculty.civil.2@kathir.edu,"Query Resolved",query,low,false,2026-04-18
+test.faculty.civil.3@kathir.edu,"Library Reminder",warning,urgent,true,2026-04-14
+test.faculty.civil.3@kathir.edu,"Profile Updated",info,high,true,2026-05-01
+test.faculty.civil.3@kathir.edu,"Workshop Reminder",info,low,true,2026-05-26
+test.faculty.civil.3@kathir.edu,"Holiday Circular",announcement,medium,true,2026-04-28
+test.faculty.civil.3@kathir.edu,"Profile Updated",info,high,true,2026-04-04
+test.faculty.civil.3@kathir.edu,"Password Changed",warning,medium,true,2026-04-10
+test.faculty.civil.3@kathir.edu,"Exam Schedule Released",academic,medium,true,2026-04-15
+test.faculty.civil.3@kathir.edu,"Query Submitted",query,medium,true,2026-04-19
+test.faculty.civil.3@kathir.edu,"Announcement Published",announcement,low,true,2026-04-20
+test.faculty.civil.3@kathir.edu,"Holiday Circular",announcement,low,false,2026-06-27
+test.faculty.civil.3@kathir.edu,"Workshop Reminder",info,medium,true,2026-06-28
+test.faculty.civil.3@kathir.edu,"Query Submitted",query,medium,true,2026-04-06
+test.faculty.civil.3@kathir.edu,"Profile Updated",info,low,true,2026-06-27
+test.faculty.civil.3@kathir.edu,"Library Reminder",warning,medium,true,2026-06-23
+test.faculty.civil.3@kathir.edu,"Profile Updated",info,low,true,2026-06-05
+test.faculty.civil.3@kathir.edu,"Password Changed",warning,low,true,2026-04-14
+test.faculty.civil.4@kathir.edu,"Welcome Notification",info,urgent,true,2026-04-18
+test.faculty.civil.4@kathir.edu,"Query Resolved",query,high,true,2026-04-03
+test.faculty.civil.4@kathir.edu,"Holiday Circular",announcement,medium,true,2026-04-30
+test.faculty.civil.4@kathir.edu,"Welcome Notification",info,urgent,true,2026-04-07
+test.faculty.civil.4@kathir.edu,"Query Submitted",query,medium,true,2026-05-18
+test.faculty.civil.4@kathir.edu,"Exam Schedule Released",academic,medium,true,2026-04-26
+test.faculty.civil.4@kathir.edu,"Library Reminder",warning,low,true,2026-06-12
+test.faculty.civil.4@kathir.edu,"System Maintenance",system,high,true,2026-05-29
+test.faculty.civil.4@kathir.edu,"Query Resolved",query,medium,false,2026-04-06
+test.faculty.civil.4@kathir.edu,"Profile Updated",info,high,true,2026-07-01
+test.faculty.civil.4@kathir.edu,"Holiday Circular",announcement,low,true,2026-06-10
+test.faculty.civil.4@kathir.edu,"Query Submitted",query,high,true,2026-05-04
+test.faculty.civil.4@kathir.edu,"Query Resolved",query,urgent,true,2026-05-19
+test.faculty.civil.4@kathir.edu,"Holiday Circular",announcement,high,false,2026-04-10
+test.faculty.civil.4@kathir.edu,"Workshop Reminder",info,high,false,2026-04-14
+test.faculty.civil.4@kathir.edu,"Query Submitted",query,low,true,2026-05-11
+test.faculty.civil.4@kathir.edu,"Welcome Notification",info,medium,false,2026-06-12
+test.faculty.civil.4@kathir.edu,"Library Reminder",warning,urgent,true,2026-05-31
+test.faculty.civil.4@kathir.edu,"System Maintenance",system,low,true,2026-04-24
+test.faculty.civil.5@kathir.edu,"System Maintenance",system,medium,true,2026-06-13
+test.faculty.civil.5@kathir.edu,"Workshop Reminder",info,low,true,2026-04-14
+test.faculty.civil.5@kathir.edu,"Holiday Circular",announcement,low,true,2026-05-25
+test.faculty.civil.5@kathir.edu,"System Maintenance",system,low,true,2026-05-04
+test.faculty.civil.5@kathir.edu,"Library Reminder",warning,medium,false,2026-06-01
+test.faculty.civil.5@kathir.edu,"Workshop Reminder",info,medium,true,2026-06-28
+test.faculty.civil.5@kathir.edu,"Exam Schedule Released",academic,low,true,2026-04-22
+test.faculty.civil.5@kathir.edu,"Exam Schedule Released",academic,high,false,2026-04-15
+test.faculty.civil.5@kathir.edu,"Query Resolved",query,high,true,2026-05-28
+test.faculty.civil.5@kathir.edu,"Query Submitted",query,high,false,2026-05-23
+test.faculty.civil.5@kathir.edu,"Query Submitted",query,low,false,2026-04-03
+test.faculty.civil.5@kathir.edu,"Exam Schedule Released",academic,medium,true,2026-05-04
+test.faculty.civil.5@kathir.edu,"Password Changed",warning,medium,true,2026-05-11
+test.faculty.civil.5@kathir.edu,"Welcome Notification",info,low,true,2026-05-17
+test.faculty.civil.5@kathir.edu,"Welcome Notification",info,low,false,2026-04-20
+test.faculty.civil.5@kathir.edu,"Password Changed",warning,low,false,2026-05-14
+test.faculty.civil.5@kathir.edu,"Library Reminder",warning,low,true,2026-05-18
+test.faculty.aids.1@kathir.edu,"Holiday Circular",announcement,low,false,2026-04-12
+test.faculty.aids.1@kathir.edu,"Workshop Reminder",info,low,true,2026-05-08
+test.faculty.aids.1@kathir.edu,"Holiday Circular",announcement,high,true,2026-06-23
+test.faculty.aids.1@kathir.edu,"Library Reminder",warning,medium,true,2026-05-23
+test.faculty.aids.1@kathir.edu,"Query Resolved",query,low,true,2026-05-30
+test.faculty.aids.1@kathir.edu,"Query Submitted",query,low,true,2026-04-13
+test.faculty.aids.1@kathir.edu,"Welcome Notification",info,medium,true,2026-05-22
+test.faculty.aids.1@kathir.edu,"Password Changed",warning,low,true,2026-04-29
+test.faculty.aids.1@kathir.edu,"Holiday Circular",announcement,medium,false,2026-05-03
+test.faculty.aids.1@kathir.edu,"Library Reminder",warning,low,false,2026-06-02
+test.faculty.aids.1@kathir.edu,"Query Resolved",query,low,false,2026-04-09
+test.faculty.aids.1@kathir.edu,"Welcome Notification",info,medium,false,2026-05-03
+test.faculty.aids.1@kathir.edu,"Query Submitted",query,low,true,2026-06-04
+test.faculty.aids.1@kathir.edu,"Welcome Notification",info,low,false,2026-05-19
+test.faculty.aids.1@kathir.edu,"Password Changed",warning,medium,false,2026-05-25
+test.faculty.aids.1@kathir.edu,"Welcome Notification",info,high,false,2026-06-06
+test.faculty.aids.2@kathir.edu,"Holiday Circular",announcement,medium,false,2026-06-19
+test.faculty.aids.2@kathir.edu,"Holiday Circular",announcement,low,true,2026-06-30
+test.faculty.aids.2@kathir.edu,"Query Resolved",query,urgent,false,2026-06-15
+test.faculty.aids.2@kathir.edu,"Query Resolved",query,medium,false,2026-06-07
+test.faculty.aids.2@kathir.edu,"Library Reminder",warning,low,true,2026-06-25
+test.faculty.aids.2@kathir.edu,"Query Resolved",query,medium,true,2026-05-05
+test.faculty.aids.2@kathir.edu,"Query Submitted",query,high,false,2026-05-15
+test.faculty.aids.2@kathir.edu,"Exam Schedule Released",academic,medium,false,2026-04-10
+test.faculty.aids.2@kathir.edu,"Exam Schedule Released",academic,medium,false,2026-06-07
+test.faculty.aids.2@kathir.edu,"Password Changed",warning,medium,true,2026-04-15
+test.faculty.aids.2@kathir.edu,"Welcome Notification",info,medium,true,2026-04-19
+test.faculty.aids.2@kathir.edu,"System Maintenance",system,medium,true,2026-04-15
+test.faculty.aids.2@kathir.edu,"Library Reminder",warning,high,false,2026-06-15
+test.faculty.aids.2@kathir.edu,"Profile Updated",info,medium,true,2026-04-22
+test.faculty.aids.3@kathir.edu,"Workshop Reminder",info,high,true,2026-04-29
+test.faculty.aids.3@kathir.edu,"Workshop Reminder",info,medium,true,2026-06-28
+test.faculty.aids.3@kathir.edu,"Query Resolved",query,low,true,2026-04-22
+test.faculty.aids.3@kathir.edu,"Welcome Notification",info,low,true,2026-06-07
+test.faculty.aids.3@kathir.edu,"Exam Schedule Released",academic,low,true,2026-06-25
+test.faculty.aids.3@kathir.edu,"Workshop Reminder",info,high,true,2026-05-23
+test.faculty.aids.3@kathir.edu,"Welcome Notification",info,low,true,2026-05-27
+test.faculty.aids.3@kathir.edu,"Welcome Notification",info,low,false,2026-06-07
+test.faculty.aids.3@kathir.edu,"Query Resolved",query,high,true,2026-05-13
+test.faculty.aids.3@kathir.edu,"Welcome Notification",info,low,true,2026-04-27
+test.faculty.aids.3@kathir.edu,"System Maintenance",system,high,false,2026-05-29
+test.faculty.aids.3@kathir.edu,"Query Resolved",query,low,true,2026-04-06
+test.faculty.aids.3@kathir.edu,"Exam Schedule Released",academic,high,false,2026-06-24
+test.faculty.aids.3@kathir.edu,"Exam Schedule Released",academic,medium,false,2026-04-12
+test.faculty.aids.3@kathir.edu,"Announcement Published",announcement,low,false,2026-04-05
+test.faculty.aids.4@kathir.edu,"Profile Updated",info,medium,true,2026-06-09
+test.faculty.aids.4@kathir.edu,"Query Submitted",query,low,true,2026-06-27
+test.faculty.aids.4@kathir.edu,"Query Resolved",query,low,false,2026-04-11
+test.faculty.aids.4@kathir.edu,"Announcement Published",announcement,low,true,2026-06-10
+test.faculty.aids.4@kathir.edu,"Library Reminder",warning,high,true,2026-05-01
+test.faculty.aids.4@kathir.edu,"Profile Updated",info,low,true,2026-05-25
+test.faculty.aids.4@kathir.edu,"Query Submitted",query,urgent,false,2026-04-26
+test.faculty.aids.4@kathir.edu,"System Maintenance",system,medium,false,2026-05-22
+test.faculty.aids.4@kathir.edu,"Workshop Reminder",info,medium,true,2026-05-07
+test.faculty.aids.4@kathir.edu,"Workshop Reminder",info,high,true,2026-04-15
+test.faculty.aids.4@kathir.edu,"Announcement Published",announcement,medium,true,2026-05-10
+test.faculty.aids.4@kathir.edu,"Query Submitted",query,medium,false,2026-04-25
+test.faculty.aids.4@kathir.edu,"Password Changed",warning,high,true,2026-05-28
+test.faculty.aids.4@kathir.edu,"Workshop Reminder",info,low,false,2026-06-07
+test.faculty.aids.4@kathir.edu,"Query Submitted",query,low,true,2026-04-10
+test.faculty.aids.4@kathir.edu,"Query Submitted",query,medium,true,2026-06-18
+test.faculty.aids.4@kathir.edu,"System Maintenance",system,low,false,2026-05-31
+test.faculty.aids.4@kathir.edu,"Holiday Circular",announcement,medium,true,2026-04-25
+test.faculty.aids.5@kathir.edu,"Holiday Circular",announcement,low,false,2026-04-22
+test.faculty.aids.5@kathir.edu,"Workshop Reminder",info,low,false,2026-04-03
+test.faculty.aids.5@kathir.edu,"Library Reminder",warning,low,false,2026-06-29
+test.faculty.aids.5@kathir.edu,"Library Reminder",warning,high,true,2026-05-30
+test.faculty.aids.5@kathir.edu,"Announcement Published",announcement,urgent,true,2026-04-22
+test.faculty.aids.5@kathir.edu,"Library Reminder",warning,medium,true,2026-05-18
+test.admin.2026@kathir.edu,"System Maintenance",system,low,true,2026-05-13
+test.admin.2026@kathir.edu,"System Maintenance",system,medium,false,2026-06-29
+test.admin.2026@kathir.edu,"System Maintenance",system,low,false,2026-05-26
+test.admin.2026@kathir.edu,"Announcement Published",announcement,low,false,2026-06-17
+test.admin.2026@kathir.edu,"Announcement Published",announcement,low,true,2026-04-21
+test.admin.2026@kathir.edu,"Holiday Circular",announcement,medium,true,2026-06-24
+test.admin.2026@kathir.edu,"System Maintenance",system,low,true,2026-04-25
+test.admin.2026@kathir.edu,"Password Changed",warning,medium,true,2026-05-24
+test.admin.2026@kathir.edu,"Profile Updated",info,medium,false,2026-04-23
+test.admin.2026@kathir.edu,"Holiday Circular",announcement,medium,true,2026-05-07
+test.admin.2026@kathir.edu,"Password Changed",warning,high,false,2026-05-22

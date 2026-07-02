@@ -1,0 +1,31 @@
+Name,Department,Designation,Employee ID,Email,Password,Qualification,Experience
+"Pradeep Nadar","Electronics and Communication Engineering","Professor","EMP26ECE001","test.faculty.ece.1@kathir.edu","Faculty@123","Ph.D.",17
+"Sudha Chettiar","Electronics and Communication Engineering","Associate Professor","EMP26ECE002","test.faculty.ece.2@kathir.edu","Faculty@123","Ph.D.",10
+"Madhaven Gounder","Electronics and Communication Engineering","Assistant Professor","EMP26ECE003","test.faculty.ece.3@kathir.edu","Faculty@123","M.E. / M.Tech.",6
+"Malathi Naicker","Electronics and Communication Engineering","Assistant Professor","EMP26ECE004","test.faculty.ece.4@kathir.edu","Faculty@123","M.E. / M.Tech.",4
+"Mohan Reddy","Electronics and Communication Engineering","Lab Instructor","EMP26ECE005","test.faculty.ece.5@kathir.edu","Faculty@123","B.E. / B.Tech.",3
+"Anil Ramakrishnan","Computer Science and Engineering","Professor","EMP26CSE001","test.faculty.cse.1@kathir.edu","Faculty@123","Ph.D.",17
+"Shanthi Swamy","Computer Science and Engineering","Associate Professor","EMP26CSE002","test.faculty.cse.2@kathir.edu","Faculty@123","Ph.D.",10
+"Pradeep Iyer","Computer Science and Engineering","Assistant Professor","EMP26CSE003","test.faculty.cse.3@kathir.edu","Faculty@123","M.E. / M.Tech.",6
+"Sudha Iyengar","Computer Science and Engineering","Assistant Professor","EMP26CSE004","test.faculty.cse.4@kathir.edu","Faculty@123","M.E. / M.Tech.",4
+"Madhaven Nadar","Computer Science and Engineering","Lab Instructor","EMP26CSE005","test.faculty.cse.5@kathir.edu","Faculty@123","B.E. / B.Tech.",3
+"Pradeep Gounder","Electrical and Electronics Engineering","Professor","EMP26EEE001","test.faculty.eee.1@kathir.edu","Faculty@123","Ph.D.",17
+"Sudha Naicker","Electrical and Electronics Engineering","Associate Professor","EMP26EEE002","test.faculty.eee.2@kathir.edu","Faculty@123","Ph.D.",10
+"Madhaven Reddy","Electrical and Electronics Engineering","Assistant Professor","EMP26EEE003","test.faculty.eee.3@kathir.edu","Faculty@123","M.E. / M.Tech.",6
+"Malathi Choudhary","Electrical and Electronics Engineering","Assistant Professor","EMP26EEE004","test.faculty.eee.4@kathir.edu","Faculty@123","M.E. / M.Tech.",4
+"Mohan Deshmukh","Electrical and Electronics Engineering","Lab Instructor","EMP26EEE005","test.faculty.eee.5@kathir.edu","Faculty@123","B.E. / B.Tech.",3
+"Venkat Gounder","Mechanical Engineering","Professor","EMP26MECH001","test.faculty.mech.1@kathir.edu","Faculty@123","Ph.D.",17
+"Deepa Naicker","Mechanical Engineering","Associate Professor","EMP26MECH002","test.faculty.mech.2@kathir.edu","Faculty@123","Ph.D.",10
+"Ketan Reddy","Mechanical Engineering","Assistant Professor","EMP26MECH003","test.faculty.mech.3@kathir.edu","Faculty@123","M.E. / M.Tech.",6
+"Meenakshi Choudhary","Mechanical Engineering","Assistant Professor","EMP26MECH004","test.faculty.mech.4@kathir.edu","Faculty@123","M.E. / M.Tech.",4
+"Suresh Deshmukh","Mechanical Engineering","Lab Instructor","EMP26MECH005","test.faculty.mech.5@kathir.edu","Faculty@123","B.E. / B.Tech.",3
+"Anil Deshmukh","Civil Engineering","Professor","EMP26CIVIL001","test.faculty.civil.1@kathir.edu","Faculty@123","Ph.D.",17
+"Shanthi Joshi","Civil Engineering","Associate Professor","EMP26CIVIL002","test.faculty.civil.2@kathir.edu","Faculty@123","Ph.D.",10
+"Pradeep Kulkarni","Civil Engineering","Assistant Professor","EMP26CIVIL003","test.faculty.civil.3@kathir.edu","Faculty@123","M.E. / M.Tech.",6
+"Sudha Bhatt","Civil Engineering","Assistant Professor","EMP26CIVIL004","test.faculty.civil.4@kathir.edu","Faculty@123","M.E. / M.Tech.",4
+"Madhaven Mehta","Civil Engineering","Lab Instructor","EMP26CIVIL005","test.faculty.civil.5@kathir.edu","Faculty@123","B.E. / B.Tech.",3
+"Prakash Deshmukh","Artificial Intelligence and Data Science","Professor","EMP26AIDS001","test.faculty.aids.1@kathir.edu","Faculty@123","Ph.D.",17
+"Uma Joshi","Artificial Intelligence and Data Science","Associate Professor","EMP26AIDS002","test.faculty.aids.2@kathir.edu","Faculty@123","Ph.D.",10
+"Anil Kulkarni","Artificial Intelligence and Data Science","Assistant Professor","EMP26AIDS003","test.faculty.aids.3@kathir.edu","Faculty@123","M.E. / M.Tech.",6
+"Shanthi Bhatt","Artificial Intelligence and Data Science","Assistant Professor","EMP26AIDS004","test.faculty.aids.4@kathir.edu","Faculty@123","M.E. / M.Tech.",4
+"Pradeep Mehta","Artificial Intelligence and Data Science","Lab Instructor","EMP26AIDS005","test.faculty.aids.5@kathir.edu","Faculty@123","B.E. / B.Tech.",3

@@ -1,0 +1,25 @@
+Type,StudentRegNo,Issue/Desc,Severity,Status,Date
+Discipline,KCE26MECH006,"Hostel complaint regarding loud noise after 10 PM.",Low,Under Review,2026-05-28
+Discipline,KCE26MECH006,"Malpractice warning during internal assessment.",Severe,Under Review,2026-02-15
+Discipline,KCE26MECH006,"Lab misconduct. Improper handling of equipment.",Severe,Active,2026-02-26
+Discipline,KCE26CSE004,"Mobile usage during lecture hours.",Low,Pending,2026-06-02
+Discipline,KCE26CSE004,"Late attendance for 3 consecutive days.",Low,Active,2026-01-16
+Discipline,KCE26CSE004,"Late attendance for 3 consecutive days.",Low,Pending,2026-06-06
+Discipline,KCE26MECH009,"Malpractice warning during internal assessment.",Severe,Resolved,2026-03-30
+Discipline,KCE26MECH009,"Late attendance for 3 consecutive days.",Low,Under Review,2026-06-27
+Discipline,KCE26EEE004,"Malpractice warning during internal assessment.",Severe,Resolved,2026-01-08
+Discipline,KCE26EEE004,"Parking violation in faculty parking area.",Low,Active,2026-06-12
+Discipline,KCE26MECH003,"Hostel complaint regarding loud noise after 10 PM.",Low,Resolved,2026-01-13
+Discipline,KCE26MECH003,"Hostel complaint regarding loud noise after 10 PM.",Low,Under Review,2026-03-06
+Discipline,KCE26MECH003,"Malpractice warning during internal assessment.",Severe,Resolved,2026-02-12
+Discipline,KCE26EEE010,"Lab misconduct. Improper handling of equipment.",Severe,Pending,2026-06-27
+Discipline,KCE26AIDS008,"Parking violation in faculty parking area.",Low,Active,2026-06-29
+Discipline,KCE26AIDS008,"Hostel complaint regarding loud noise after 10 PM.",Low,Under Review,2026-06-03
+Discipline,KCE26AIDS003,"Late attendance for 3 consecutive days.",Low,Resolved,2026-06-14
+Discipline,KCE26CIVIL001,"Uniform violation on Wednesday.",Low,Under Review,2026-02-17
+Discipline,KCE26CIVIL001,"Hostel complaint regarding loud noise after 10 PM.",Low,Resolved,2026-02-28
+Discipline,KCE26CIVIL009,"Mobile usage during lecture hours.",Low,Resolved,2026-03-03
+Discipline,KCE26EEE003,"Mobile usage during lecture hours.",Low,Under Review,2026-05-09
+Discipline,KCE26EEE003,"Hostel complaint regarding loud noise after 10 PM.",Low,Active,2026-01-17
+Discipline,KCE26MECH005,"Lab misconduct. Improper handling of equipment.",Severe,Resolved,2026-03-17
+Discipline,KCE26MECH005,"Parking violation in faculty parking area.",Low,Pending,2026-03-20
