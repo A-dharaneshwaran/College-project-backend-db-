@@ -61,6 +61,7 @@ export default function ManageStudents() {
     const [importReport, setImportReport] = useState(null);
     const [importLoading, setImportLoading] = useState(false);
     const [importedCredentials, setImportedCredentials] = useState([]);
+    const [credentialsDownloadId, setCredentialsDownloadId] = useState('');
     const fileInputRef = useRef(null);
 
     // Bulk Export state
@@ -240,6 +241,7 @@ export default function ManageStudents() {
             const res = await api.upload('/bulk/students/import', formData, `?mode=${importMode}`);
             setImportReport(res.data);
             setImportedCredentials(res.data?.importedRecords || []);
+            setCredentialsDownloadId(res.data?.credentialsDownloadId || '');
             setImportProgressVisible(false);
             setImportReportVisible(true);
             loadStudentsAndDepts();
@@ -250,12 +252,12 @@ export default function ManageStudents() {
     };
 
     const handleDownloadCredentials = async () => {
-        if (!importedCredentials || importedCredentials.length === 0) {
+        if (!credentialsDownloadId) {
             Alert.alert('No Credentials', 'No new accounts were created in this import.');
             return;
         }
         try {
-            const res = await api.post('/bulk/students/credentials', { importedRecords: importedCredentials });
+            const res = await api.post('/bulk/students/credentials', { downloadId: credentialsDownloadId });
             // For web: use download API
             const dlRes = await api.download('/bulk/students/credentials', '');
         } catch {}
@@ -267,7 +269,7 @@ export default function ManageStudents() {
                 'Content-Type': 'application/json',
                 'Authorization': `Bearer ${token}`,
             },
-            body: JSON.stringify({ importedRecords: importedCredentials }),
+            body: JSON.stringify({ downloadId: credentialsDownloadId }),
         });
         if (!response.ok) { Alert.alert('Error', 'Failed to generate credentials file.'); return; }
         const blob = await response.blob();

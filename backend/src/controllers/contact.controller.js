@@ -25,7 +25,8 @@ exports.getContacts = catchAsync(async (req, res) => {
   // 2. Build search filter
   let matchedUserIdsByExtra = [];
   if (search.trim()) {
-    const queryRegex = new RegExp(search.trim(), 'i');
+    const escapedSearch = search.trim().replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const queryRegex = new RegExp(escapedSearch, 'i');
 
     // Find department IDs
     const matchedDepts = await Department.find({
@@ -59,7 +60,8 @@ exports.getContacts = catchAsync(async (req, res) => {
   // Create text search conditions on User
   const textOrClauses = [];
   if (search.trim()) {
-    const queryRegex = new RegExp(search.trim(), 'i');
+    const escapedSearch = search.trim().replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const queryRegex = new RegExp(escapedSearch, 'i');
     textOrClauses.push({ name: queryRegex });
     textOrClauses.push({ email: queryRegex });
     if (matchedUserIdsByExtra.length > 0) {

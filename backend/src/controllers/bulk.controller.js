@@ -24,6 +24,25 @@ const {
 
 // ─── Helpers ───────────────────────────────────────────────────────────────
 
+const crypto = require('crypto');
+const credentialsCache = new Map();
+
+const addToCredentialsCache = (records, type) => {
+  const downloadId = crypto.randomUUID ? crypto.randomUUID() : Math.random().toString(36).substring(2) + Date.now().toString(36);
+  credentialsCache.set(downloadId, {
+    records,
+    type,
+    createdAt: Date.now()
+  });
+  
+  // Auto-cleanup after 10 minutes
+  setTimeout(() => {
+    credentialsCache.delete(downloadId);
+  }, 10 * 60 * 1000);
+  
+  return downloadId;
+};
+
 const streamFile = (res, buffer, filename, contentType) => {
   res.setHeader('Content-Disposition', `attachment; filename="${filename}"`);
   res.setHeader('Content-Type', contentType);
@@ -48,7 +67,6 @@ const logActivityHelper = async (adminUserId, action, module, description, data 
  */
 const downloadStudentTemplate = catchAsync(async (req, res) => {
   const { buffer, filename, contentType } = generateStudentTemplate();
-  await logActivityHelper(req.user._id, 'Template Downloaded', 'Students', 'Downloaded bulk student template Excel sheet', { fileName: filename });
   streamFile(res, buffer, filename, contentType);
 });
 
@@ -57,7 +75,6 @@ const downloadStudentTemplate = catchAsync(async (req, res) => {
  */
 const downloadFacultyTemplate = catchAsync(async (req, res) => {
   const { buffer, filename, contentType } = generateFacultyTemplate();
-  await logActivityHelper(req.user._id, 'Template Downloaded', 'Faculty', 'Downloaded bulk faculty template Excel sheet', { fileName: filename });
   streamFile(res, buffer, filename, contentType);
 });
 
@@ -111,11 +128,21 @@ const importStudents = catchAsync(async (req, res) => {
     }
   );
 
-  // If admin requested the credentials file, stream it back instead of JSON
+  // If admin requested the credentials file directly, stream it back instead of JSON
   if (req.query.credentials === 'true' && result.importedRecords?.length > 0) {
     const { buffer, filename, contentType } = generatePasswordReport(result.importedRecords, 'student');
     return streamFile(res, buffer, filename, contentType);
   }
+
+  const downloadId = result.importedRecords?.length > 0 
+    ? addToCredentialsCache(result.importedRecords, 'student')
+    : null;
+
+  // Sanitize passwords from JSON response
+  const sanitizedRecords = result.importedRecords?.map(rec => {
+    const { temporaryPassword, ...rest } = rec;
+    return rest;
+  }) || [];
 
   return res.status(200).json(
     new ApiResponse(200, `Import completed. ${result.importedCount} created, ${result.updatedCount} updated.`, {
@@ -124,9 +151,9 @@ const importStudents = catchAsync(async (req, res) => {
       failedCount: result.failedCount,
       skippedCount: result.skippedCount,
       invalidRows: result.invalidRows,
-      hasCredentials: result.importedRecords?.length > 0,
-      // Include credentials inline (for small imports / UI display)
-      importedRecords: result.importedRecords,
+      hasCredentials: !!downloadId,
+      credentialsDownloadId: downloadId,
+      importedRecords: sanitizedRecords,
     })
   );
 });
@@ -179,6 +206,15 @@ const importFaculty = catchAsync(async (req, res) => {
     return streamFile(res, buffer, filename, contentType);
   }
 
+  const downloadId = result.importedRecords?.length > 0 
+    ? addToCredentialsCache(result.importedRecords, 'faculty')
+    : null;
+
+  const sanitizedRecords = result.importedRecords?.map(rec => {
+    const { temporaryPassword, ...rest } = rec;
+    return rest;
+  }) || [];
+
   return res.status(200).json(
     new ApiResponse(200, `Import completed. ${result.importedCount} created, ${result.updatedCount} updated.`, {
       importedCount: result.importedCount,
@@ -186,8 +222,9 @@ const importFaculty = catchAsync(async (req, res) => {
       failedCount: result.failedCount,
       skippedCount: result.skippedCount,
       invalidRows: result.invalidRows,
-      hasCredentials: result.importedRecords?.length > 0,
-      importedRecords: result.importedRecords,
+      hasCredentials: !!downloadId,
+      credentialsDownloadId: downloadId,
+      importedRecords: sanitizedRecords,
     })
   );
 });
@@ -254,16 +291,26 @@ const exportFacultyHandler = catchAsync(async (req, res) => {
 
 /**
  * POST /api/bulk/students/credentials
- * Body: { importedRecords: [...] }
- * Generates and streams a one-time credentials xlsx from a given records array.
+ * Body: { importedRecords: [...], downloadId: '...' }
+ * Generates and streams a one-time credentials xlsx from a given records array or downloadId.
  */
 const downloadStudentCredentials = catchAsync(async (req, res) => {
-  const { importedRecords } = req.body;
-  if (!importedRecords || !Array.isArray(importedRecords) || importedRecords.length === 0) {
-    throw new ApiError(400, 'No imported records provided for credentials report.');
+  const { importedRecords, downloadId } = req.body;
+  let records = importedRecords;
+
+  if (downloadId) {
+    const cached = credentialsCache.get(downloadId);
+    if (cached) {
+      records = cached.records;
+      credentialsCache.delete(downloadId);
+    }
   }
 
-  const { buffer, filename, contentType } = generatePasswordReport(importedRecords, 'student');
+  if (!records || !Array.isArray(records) || records.length === 0) {
+    throw new ApiError(400, 'No imported records provided for credentials report or download link expired.');
+  }
+
+  const { buffer, filename, contentType } = generatePasswordReport(records, 'student');
   streamFile(res, buffer, filename, contentType);
 });
 
@@ -271,12 +318,22 @@ const downloadStudentCredentials = catchAsync(async (req, res) => {
  * POST /api/bulk/faculty/credentials
  */
 const downloadFacultyCredentials = catchAsync(async (req, res) => {
-  const { importedRecords } = req.body;
-  if (!importedRecords || !Array.isArray(importedRecords) || importedRecords.length === 0) {
-    throw new ApiError(400, 'No imported records provided for credentials report.');
+  const { importedRecords, downloadId } = req.body;
+  let records = importedRecords;
+
+  if (downloadId) {
+    const cached = credentialsCache.get(downloadId);
+    if (cached) {
+      records = cached.records;
+      credentialsCache.delete(downloadId);
+    }
   }
 
-  const { buffer, filename, contentType } = generatePasswordReport(importedRecords, 'faculty');
+  if (!records || !Array.isArray(records) || records.length === 0) {
+    throw new ApiError(400, 'No imported records provided for credentials report or download link expired.');
+  }
+
+  const { buffer, filename, contentType } = generatePasswordReport(records, 'faculty');
   streamFile(res, buffer, filename, contentType);
 });
 

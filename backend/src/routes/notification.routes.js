@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const notificationController = require('../controllers/notification.controller');
-const { protect } = require('../middleware/auth');
+const { protect, authorize } = require('../middleware/auth');
 
 // All notification routes require authentication
 router.use(protect);
@@ -60,7 +60,7 @@ router.delete('/clear-read', notificationController.clearReadNotifications);
  *       201:
  *         description: Created
  */
-router.post('/test', notificationController.testNotification);
+router.post('/test', authorize('admin'), notificationController.testNotification);
 
 /**
  * @swagger

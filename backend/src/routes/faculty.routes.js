@@ -107,7 +107,7 @@ router.route('/students')
  *         description: Success
  */
 router.route('/:id')
-  .get(protect, facultyController.getFaculty)
+  .get(protect, authorize('admin', 'faculty'), facultyController.getFaculty)
   .put(protect, authorize('admin'), updateFacultyValidator, validate, facultyController.updateFaculty)
   .delete(protect, authorize('admin'), facultyController.deleteFaculty);
 

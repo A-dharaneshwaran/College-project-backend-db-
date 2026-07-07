@@ -48,7 +48,8 @@ const getActivityLogs = async (queryParams) => {
 
   // Search filter (matches description or action)
   if (queryParams.search) {
-    const searchRegex = new RegExp(queryParams.search.trim(), 'i');
+    const escapedSearch = queryParams.search.trim().replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const searchRegex = new RegExp(escapedSearch, 'i');
     filter.$or = [
       { description: searchRegex },
       { action: searchRegex }

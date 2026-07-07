@@ -32,12 +32,12 @@ exports.createConversation = async (participants, type = 'direct', department = 
 
   // Log activity
   if (createdBy) {
-    await activityService.logActivity(
-      createdBy,
-      'CONVERSATION_CREATED',
-      'Message',
-      `Created a new ${type} conversation`
-    );
+    await activityService.logActivity({
+      adminUser: createdBy,
+      action: 'CONVERSATION_CREATED',
+      module: 'Message',
+      description: `Created a new ${type} conversation`
+    });
   }
 
   return Conversation.findById(conversation._id).populate('participants', 'name email role profilePhoto');
@@ -333,9 +333,19 @@ exports.sendMessage = async (conversationId, senderId, content, type = 'text', a
 
   // Log Activity for Broadcasts
   if (conversation.type === 'department_broadcast' || conversation.type === 'institution_broadcast') {
-    await activityService.logActivity(senderId, 'BROADCAST_SENT', 'Message', `Sent a broadcast to ${conversation.type}`);
+    await activityService.logActivity({
+      adminUser: senderId,
+      action: 'BROADCAST_SENT',
+      module: 'Message',
+      description: `Sent a broadcast to ${conversation.type}`
+    });
   } else {
-    await activityService.logActivity(senderId, 'MESSAGE_SENT', 'Message', `Sent a message`);
+    await activityService.logActivity({
+      adminUser: senderId,
+      action: 'MESSAGE_SENT',
+      module: 'Message',
+      description: `Sent a message`
+    });
   }
 
   const populatedMessage = await Message.findById(message._id)
@@ -567,7 +577,12 @@ exports.deleteMessage = async (messageId, userId) => {
   message.deletedAt = Date.now();
   await message.save();
 
-  await activityService.logActivity(userId, 'MESSAGE_DELETED', 'Message', `Deleted a message`);
+  await activityService.logActivity({
+    adminUser: userId,
+    action: 'MESSAGE_DELETED',
+    module: 'Message',
+    description: `Deleted a message`
+  });
   return { success: true };
 };
 
@@ -580,14 +595,15 @@ exports.searchMessages = async (userId, query) => {
   // Find conversations user is part of
   const userConversations = await Conversation.find({ participants: userId, isDeleted: false }).distinct('_id');
 
+  const escapedQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
   const messages = await Message.aggregate([
     {
       $match: {
         conversation: { $in: userConversations },
         isDeleted: false,
         $or: [
-          { content: { $regex: query, $options: 'i' } },
-          { attachments: { $regex: query, $options: 'i' } }
+          { content: { $regex: escapedQuery, $options: 'i' } },
+          { attachments: { $regex: escapedQuery, $options: 'i' } }
         ]
       }
     },

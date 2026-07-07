@@ -55,6 +55,7 @@ export default function AdminLayout() {
             <Stack.Screen name="notifications" options={{ title: 'Notification Center' }} />
             <Stack.Screen name="analytics" options={{ title: 'Institutional Analytics' }} />
             <Stack.Screen name="messages" options={{ title: 'Internal Messaging' }} />
+            <Stack.Screen name="contact" options={{ title: 'Contact Directory' }} />
         </Stack>
     );
 }

@@ -115,7 +115,8 @@ const getNotifications = async (userId, queryOptions) => {
     // We use an explicit Mongoose search instead of paginateQuery because paginateQuery 
     // doesn't cleanly support mixing an array of $or for search with our explicit filter.$or for expiration
     // So we'll combine them using $and
-    const searchRegex = { $regex: search, $options: 'i' };
+    const escapedSearch = search.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const searchRegex = { $regex: escapedSearch, $options: 'i' };
     const searchConditions = {
       $or: [
         { title: searchRegex },

@@ -160,7 +160,8 @@ exports.searchUsers = catchAsync(async (req, res) => {
     });
   }
 
-  const queryRegex = new RegExp(q.trim(), 'i');
+  const escapedQ = q.trim().replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const queryRegex = new RegExp(escapedQ, 'i');
 
   const Student = require('../models/Student');
   const Faculty = require('../models/Faculty');

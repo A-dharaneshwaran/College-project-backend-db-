@@ -35,6 +35,7 @@ export default function FacultyLayout() {
             <Stack.Screen name="updates" options={{ title: 'Campus Updates' }} />
             <Stack.Screen name="notifications" options={{ title: 'Notification Center' }} />
             <Stack.Screen name="messages" options={{ title: 'Inbox' }} />
+            <Stack.Screen name="contact" options={{ title: 'Contact Directory' }} />
         </Stack>
     );
 }

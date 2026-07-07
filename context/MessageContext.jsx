@@ -62,15 +62,23 @@ export const MessageProvider = ({ children }) => {
   // Effect to restart polling or fetch immediately when showArchived changes
   useEffect(() => {
     if (user) {
-      fetchConversations();
+      if (isPolling) {
+        stopPolling();
+        startPolling();
+      } else {
+        fetchConversations();
+      }
     }
-  }, [showArchived, user]);
+  }, [showArchived, user, isPolling, startPolling, stopPolling]);
 
   useEffect(() => {
     const subscription = AppState.addEventListener('change', nextAppState => {
       appState.current = nextAppState;
       if (nextAppState !== 'active') {
-        stopPolling();
+        if (pollingRef.current) {
+          clearInterval(pollingRef.current);
+          pollingRef.current = null;
+        }
       } else {
         // Only restart polling if we were supposed to be polling
         if (isPolling) startPolling();
@@ -79,9 +87,12 @@ export const MessageProvider = ({ children }) => {
 
     return () => {
       subscription.remove();
-      stopPolling();
+      if (pollingRef.current) {
+        clearInterval(pollingRef.current);
+        pollingRef.current = null;
+      }
     };
-  }, [isPolling, startPolling, stopPolling]);
+  }, [isPolling, startPolling]);
 
   // Expose manual refresh to trigger immediately after actions
   const refreshMessages = () => {

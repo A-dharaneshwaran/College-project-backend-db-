@@ -29,8 +29,9 @@ const paginateQuery = async (model, query, options = {}) => {
 
   // Search
   if (query.search && searchFields.length > 0) {
+    const escapedSearch = query.search.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
     filter.$or = searchFields.map((field) => ({
-      [field]: { $regex: query.search, $options: 'i' },
+      [field]: { $regex: escapedSearch, $options: 'i' },
     }));
   }
 

@@ -107,7 +107,7 @@ router.route('/profile/dashboard')
  *         description: Success
  */
 router.route('/:id')
-  .get(protect, studentController.getStudent)
+  .get(protect, authorize('admin', 'faculty'), studentController.getStudent)
   .put(protect, authorize('admin'), updateStudentValidator, validate, studentController.updateStudent)
   .delete(protect, authorize('admin'), studentController.deleteStudent);
 

@@ -36,6 +36,7 @@ export default function StudentLayout() {
             <Stack.Screen name="query" options={{ title: 'Helpdesk Queries' }} />
             <Stack.Screen name="notifications" options={{ title: 'Notification Center' }} />
             <Stack.Screen name="messages" options={{ title: 'My Messages' }} />
+            <Stack.Screen name="contact" options={{ title: 'Contact Directory' }} />
         </Stack>
     );
 }

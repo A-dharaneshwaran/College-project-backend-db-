@@ -56,6 +56,7 @@ export default function ManageFaculty() {
     const [importReport, setImportReport] = useState(null);
     const [importLoading, setImportLoading] = useState(false);
     const [importedCredentials, setImportedCredentials] = useState([]);
+    const [credentialsDownloadId, setCredentialsDownloadId] = useState('');
     const fileInputRef = useRef(null);
 
     // Bulk Export state
@@ -200,6 +201,7 @@ export default function ManageFaculty() {
             const res = await api.upload('/bulk/faculty/import', formData, `?mode=${importMode}`);
             setImportReport(res.data);
             setImportedCredentials(res.data?.importedRecords || []);
+            setCredentialsDownloadId(res.data?.credentialsDownloadId || '');
             setImportProgressVisible(false);
             setImportReportVisible(true);
             loadData();
@@ -210,7 +212,7 @@ export default function ManageFaculty() {
     };
 
     const handleDownloadCredentials = async () => {
-        if (!importedCredentials || importedCredentials.length === 0) {
+        if (!credentialsDownloadId) {
             Alert.alert('No Credentials', 'No new accounts were created in this import.');
             return;
         }
@@ -221,7 +223,7 @@ export default function ManageFaculty() {
                 'Content-Type': 'application/json',
                 'Authorization': `Bearer ${token}`,
             },
-            body: JSON.stringify({ importedRecords: importedCredentials }),
+            body: JSON.stringify({ downloadId: credentialsDownloadId }),
         });
         if (!response.ok) { Alert.alert('Error', 'Failed to generate credentials file.'); return; }
         const blob = await response.blob();
